@@ -1,0 +1,888 @@
+      "id" : 191,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 9,725000000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM3MTU4MTUsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJqZWxaTWJMTnliNlRtMnhvU2xjaGhBWDllcERFMHF5ZWZJOUh6MnArMGoyZmEzUG1lV0h0WGpoS3RjWFZYVVdnczczR2FSZjRqeGJTL0d0d0VwYnVob0VKa0RydUk3bnFFWlMzSEgxeCthb20wNVlab282WnFhK0ZMTDE1NWYwYlV5UTRNN2x4MGdXSGszeHZrR0FOUVAzTVRNZVJ1RTlMdGwrU2RhSEJDQU09In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 147\r\n\r\n",
+         "size" : 147,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:42:05 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"cd33-FX1p6tx9Ix/uwPmWaAuYCJRp79w\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Ym0s8vf%2BoCOV%2Bp%2FohhbBdQ9cRYyED2CpSe8U%2BHY07ytFrxsrG%2FBlnscsNqiBZi%2FHB0A3V18NdzBkswR%2FkFOtyFWsfdg%2FzOFmz73g5OCOM9aFMORynw%3D%3D\"}]}\r\nCF-RAY: 9d91eaf88ee6e515-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 9569\r\n\r\n",
+--
+      "id" : 192,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 17,38900000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM3MTU4MTUsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJqZWxaTWJMTnliNlRtMnhvU2xjaGhBWDllcERFMHF5ZWZJOUh6MnArMGoyZmEzUG1lV0h0WGpoS3RjWFZYVVdnczczR2FSZjRqeGJTL0d0d0VwYnVob0VKa0RydUk3bnFFWlMzSEgxeCthb20wNVlab282WnFhK0ZMTDE1NWYwYlV5UTRNN2x4MGdXSGszeHZrR0FOUVAzTVRNZVJ1RTlMdGwrU2RhSEJDQU09In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 165\r\n\r\n",
+         "size" : 165,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:42:13 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"caae-u07mqj/krJGIVqoV1OqCy059HrE\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=sPOtla0aOH8XWH51QcgyFgVWoEwK1GcZq6iSmgV%2FaMtUK%2FjQcA79exbVO5%2BGj3eHyf0qK9cdN5shB2INaW%2BI342ShEwRNckaWp0W%2FgTm8Gvz%2FvsUug%3D%3D\"}]}\r\nCF-RAY: 9d91eb286c96e51e-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 8916\r\n\r\n",
+--
+      "id" : 194,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 20,61200000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM3MzYxNzIsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ6MVZOTUNBSk93U2MrNEJkL1ZKWkZzOU9CNWhCVTR3Y0NNeEVqSU50T0ZINmlpQlIwTjlMK2VVQ3NaQ0I0MnFyNHI1MVhNMTVQT0JtWngySG9qUG13K3NWeWNPckhhMVUvczVWVlFiNlpUaDhvcG8zZkw4V3VnZk9IU2JGNmhCK3RubHdSNUhCZUtweHBiaWdRSXJpaG1vWW9SWEswWEJBQ004N0FLbjdVbFk9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 116\r\n\r\n",
+         "size" : 116,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:42:16 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1c7-ZzGUpn5Cpoa//VPp17d9VHSs65c\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xO4Kdw3z9iMU%2FQpFzW5DTeMQ4kiUBx3pW4pknb42X%2B7cqkhLXOx2yYhLs7qNYVXrp9DC7rhcYBy2W6qvtpMljmcQOJ2uF2xfojM9x0ld4TCIIawO4g%3D%3D\"}]}\r\nCF-RAY: 9d91eb3c8a3a3917-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 391\r\n\r\n",
+--
+      "id" : 215,
+      "ip" : "[2a02:26f0:3380:14::5f65:aba7]:443",
+      "method" : "GET",
+      "offset" : 67,34399999999999,
+      "request" : {
+         "header" : "GET /service/news/feed/pages/dashboard4?aver=1.241.0.0&over=10.0.22631.6199.amd64fre.ni_release.220506-1250&fring=Retail&devicetype=10&oem=HP&smode=false&machineId=%7B13104E42-6276-451D-BA01-9EF523ABCBAE%7D&clv=3.0&hver=526.1202.40.0&wprver=1.6.14.0&locale=de-DE&region=DE&apikey=lxSNtibdZ45aPe8BHuUR6XwhuuruYfwejEYNpSqgcd&ocid=winp2widget&timeOut=2000&activityId=5a52dff7-5c1f-4fe2-95af-84a49d6fe897&user=m-37AD811F3BED6792372A95863A6666F4&caller=bgtask&theme=dark&nw=false&msrc=0&clientLocation=51.47150200000000808%7C11.97245587499999964&clientLocationAccuracy=292.00000000000000000&clientLocationProvider=WiFi&clientLocationTimestamp=2026-03-08T12%3A43%3A02Z&it=app&scn=app_anon&clientFeatures=1&overlay=0&msnup=oQz4DdC0ArnmEEOK3lQP7A%3D%3D HTTP/1.1\r\nReferer: https://windows.msn.com/\r\nUserAuthToken: t=EwAYBKAEAAAU+FEkrYVKODxcga16pzW/y5vRf68AAZGm12CQWlgj2C1vzejYmx5QPFDI31qp26wRkjh/FZORw/1VwwzPYGdXD9eIX76S5jw09rDDMDXO1XqOA2uMj/Jpy46UAAy3MI164Y7YRRgEZcVOQU0rIQTf2YttPeHZC/ke55PQFkGIFakLYyb8FZi3VLF6S/pE0qlZFz8JtRbDQghhyGy06juETJzoFVuYLIAygLbdqR/D0WuZvaB4WdPbaQghs0WNZ7jlx9fbWIzapGC7mOwiCTyLyFHNC+71WWJYj84Dv9Myu3zLg/WVKLtfj8gkirp9fJrWNL1Xy3J/eezxstvvbhvaQtFx5htTAZSqp4sJfMX3I7fgcoM4QwwQZgAAEI+S/Mw17jwXLEslkbZ/IY/gAkL2uN5alNQn5W/7J1fSP57cEivGsjPsgZxdCR5vKCsoU82y45Jt2rf7013qtAfWSR9I7+P9p5bQFujT4QE1wsW2JFYNA+bn6sIPxoJZkZkRQzG0qVHSiWIIdZ6h2A/0xhghDwuxQYlwe+MV1avEwNIALvrxmbMgxuWF1QkJyTb1H95hjyaOxhwP4e7UQOWFJ+nNXLnY0mQ+nVTigI39gQazyf/3nxnqOkth9aSgf+CQnRE7V4TWWSiR5a7yZ0Cvzg8PitethckTqZf7jJxw41hH6/TqzaucyTV7a/Hlm4EMasBF5gjKQ7DXIdVa4j4gYJLhuLp/SeTOhredsbjea9/RbNWgVJ8yKpKnRMdTM98XROMgvc928rlUJLN4i5tqjb79AkMb8K/dsBqvQAQt8FlKMlaPAHQQtMo17IX2Pa5030t8urmhEXo1ii3ihgZsVPwwo6Ea+zZRo6A9RxrBUijYfzvjVrkSti3f4pDeBqt0Mt8rGnBafC/NMblEoUTdt/RFzbxKq5SOreh8aiaY5GVX8CV6LSmBCMqjj5MYsM3qQTh19giT3YfRWK64p3dwVH7zu7XPJu0AeB5ABRmWgs3DzPvoybGU+2Ybe55SOOu4EqkSklrpqlSEsqbyvpJ22Bskp392BgqSNj+wOZ93litnpOl8ow/zL42ZTZv1WxarJAynmSnGvO3ujJU9UKO4tQPR1utfhNNmwg65Pqa82sgGNxIGOCL5eRnTXGt4OBKT/s5b401MwHtASQVWMYrpV7D60GuHmM2cBhaMXcTWwGqgRtyPocKheuEw82ReCAvZMuFWOA+UkLQTTfhXEhgNUm6eyZiTAnJNC0EpYpI4nqOgNAhQHAjNw6oZrba/QOzkaWSWL42RdKFXBNcBHNzYxjmexYgAk1FiZVH2ELLI63U7A/wgS6+7141xe20vOrFCcmQtoZ9g2VxzBc/K3AZNPfftrKOEJVbZm9GEFx59gqYhAw==&p=\r\nmuid: 37AD811F3BED6792372A95863A6666F4\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0\r\nHost: assets.msn.com\r\nConnection: Keep-Alive\r\nCookie: _C_Auth=; MUID=; MUIDB=; MUID=37AD811F3BED6792372A95863A6666F4; APP_ANON=A=3D690BF08E89E11A03B55478FFFFFFFF; aace=%7b%22child%22%3a0%2c%22expiredOn%22%3a%222026-09-04T11%3a05%3a11%22%7d; els=%7b%22account_type%22%3a%22MSA%22%7d; _EDGE_S=SID=14EFFF1CC67B6A8404BBE80AC7536B8C; App-User=%7B%22userId%22%3A%22a-3D690BF08E89E11A03B55478FFFFFFFF%22%2C%22cohorts%22%3A%5B%5D%2C%22accountType%22%3A%22MSA%22%2C%22identityType%22%3A%22App%22%2C%22responseCreationDateTime%22%3A%222026-03-08T11%3A05%3A12.3033361Z%22%2C%22debugId%22%3A%22b18fe1bc-f2d4-4bb7-98c6-8b37b1150b8d%7C2026-03-08T11%3A05%3A12.3033384Z%7Cfabric_msn%7CWUS2-A%7CNews_844%22%7D; msnup=%7B%22cnex%22%3A%22no%22%7D; MUIDB=37AD811F3BED6792372A95863A6666F4; sptmarket=de-DE||de|de-de|de-de|de|DE|reason=RevIP:de|cf=9|RefA=69ad508118234bc3a48cdf7977cade6f.RefC=2026-03-08T10:33:37Z\r\nAccept-Encoding: gzip, deflate\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nContent-Type: application/json; charset=utf-8\r\nContent-Encoding: gzip\r\nX-1S-FallbackReason: RetryOnThrottling\r\nDDD-AuthenticatedWithJwtFlow: False\r\nDDD-UserType: PersonalMicrosoftAccount\r\nDDD-StrategyExecutionLatency: 00:00:01.0365925\r\nx-wpo-activityId: ff1f569a-df79-4d4b-ba7d-d5b6f3ad0c8d|2026-03-08T12:43:04.2024434Z|fabric_wpo|WUS2-A|WPO_74\r\nDDD-ActivityId: ff1f569a-df79-4d4b-ba7d-d5b6f3ad0c8d\r\nDDD-TMPL: UserSegmentAid:0;triggercf_5_cfxeverything_1;Gem0Cnt_F_MainFeed_winp2widget_Default;ATFSignalTriggered:1;FCRelBarP_0.21;click28d_0;TaggingUserActionSignal;tmpl-triggering-prod;UserSegmentClk:0;StableIdCS:3D690BF08E89E11A03B55478FFFFFFFF;triggercf;SageUserStatus:9_0_0_0;IsRecoNewUser:1;c-41G+I;IMArticleNegUser:0;ContainsAvailableTopicCount:9;AvailableTopicCount:9;wpo-coldstart:1;FCTarget|5|0.2_1|0.94_4|0.1_11|0.2_3|0.2_0|0.21_13|0.11;P2DeviceWithEL;ContainsAvailableTeraTopicCount:9;IsTeraFollowUser:1;IsTeraOrFinanceFollowUser:1;City:c-41G+I;NotTPUser;click84d_0;SageUser:0;s-ofDbL;tmpl-triggering-shared;eePosList:0;UserSegmentGid:0;Events-WPO:1;ULatLon51.47:11.97;TeraFollowTopics:terav2_recipes,terat2_celebrities,terav2_fitness,terat2_movies,terav2_tv;UserProfileActionSignal:0;AvailableTeraTopicCount:9;InterestCount:0;UserCohortByEngagement28d:0;GANone:1;click56d_0;FollowMoreThanOneTopicUser:1;GEM:MNull;tmpl-xapwpo:1;ClickCohort:0;IsFollowTopicUser:1;FCSupply#11|18_5|53_1|115_13|6_3|9_4|2;numofmutepub:0;IsIMorPubFollowUser:1;XAIG:100_0;click90d_0;UserSegmentImp:0;FixIds:0;UserHasActionSignal:1;tmpl-cgtopstories:1;click_0;UIC#t1_6|0|0|0.26;HasPersRecall;IsIMFollowUser:1;ExplcitFollowCohort:3;TopSectionQualifiedCount:6;RecoSource:Sage_;tmpl-default:1;LTInterests:;FCSignal#0|9|0;TileID:u30s;MainFeedsColdUser:true\r\nDDD-TMPL-Removed: False\r\nX-1S-Digital-ID: at=MSA;it=App;muid=m-37AD811F3BED6792372A95863A6666F4;anid=a-3D690BF08E89E11A03B55478FFFFFFFF\r\nDDD-Auth-Features: AT:MSA;DID:m-37AD811F3BED6792372A95863A6666F4;IT:App;MsaStateOrigin:LegacyCompactTokenFromHeader;MuidStateOrigin:MuidFromHeader\r\nDDD-DebugId: ff1f569a-df79-4d4b-ba7d-d5b6f3ad0c8d|2026-03-08T12:43:04.2776794Z|fabric_winfeed|WUS-C|WinFeed_88\r\nOneWebServiceLatency: 1038\r\nX-MSEdge-ResponseInfo: 1038\r\nX-Ceto-ref: 69ad6ed74e9343d8a3043190b8baf731|AFD:69ad6ed74e9343d8a3043190b8baf731|2026-03-08T12:43:03.236Z\r\nAccept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version\r\nX-MSEdge-Ref: Ref A: C62A13BEF82743DEA46F8525F79C64C5 Ref B: AMS231032609031 Ref C: 2026-03-08T12:43:03Z\r\nExpires: Sun, 08 Mar 2026 12:43:04 GMT\r\nDate: Sun, 08 Mar 2026 12:43:04 GMT\r\nConnection: keep-alive\r\nSet-Cookie: _C_ETH=1; domain=.msn.com; path=/; secure; samesite=none; httponly\r\nSet-Cookie: _C_Auth=\r\nSet-Cookie: msnup=%7B%22cnex%22%3A%22no%22%7D; expires=Sat, 06 Jun 2026 12:43:04 GMT; domain=msn.com; path=/; secure; samesite=none; httponly\r\nSet-Cookie: MUID=; domain=.msn.com; secure; samesite=none\r\nSet-Cookie: MUIDB=; domain=.msn.com; secure; samesite=none\r\nSet-Cookie: _EDGE_S=SID=14EFFF1CC67B6A8404BBE80AC7536B8C; domain=.msn.com; path=/; secure; samesite=none; httponly\r\nAkamai-Request-BC: [a=23.7.251.134,b=547530617,c=g,n=DE_BE_BERLIN,o=20940],[a=12,c=o]\r\nX-CDN-Ref: 20a2a779 | 69ad6ed74e9343d8a3043190b8baf731|AFD:69ad6ed74e9343d8a3043190b8baf731|2026-03-08T12:43:03.236Z | 2026-03-08T12:43:03\r\nServer-Timing: clientrtt; dur=28, clienttt; dur=1211, origin; dur=1208, cdntime; dur=3, wpo;dur=42,1s;dur=1005\r\nAkamai-Cache-Status: NotCacheable from child\r\nAkamai-Server-IP: 23.7.251.134\r\nAkamai-Request-ID: 20a2a779\r\nX-AS-SuppressSetCookie: 1\r\nCache-Control: private, max-age=0\r\nreport-to: {\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report?cat=msn\"}]}\r\nnel: {\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":0.1}\r\nTiming-Allow-Origin: *\r\nAkamai-GRN: 0.86fb0717.1772973783.20a2a779\r\nVary: Origin\r\nContent-Length: 67647\r\n\r\n",
+         "size" : 67647,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 67647,
+      "speed" : 48700,00000000000,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://assets.msn.com/service/news/feed/pages/dashboard4?aver=1.241.0.0&over=10.0.22631.6199.amd64fre.ni_release.220506-1250&fring=Retail&devicetype=10&oem=HP&smode=false&machineId=%7B13104E42-6276-451D-BA01-9EF523ABCBAE%7D&clv=3.0&hver=526.1202.40.0&wprver=1.6.14.0&locale=de-DE&region=DE&apikey=lxSNtibdZ45aPe8BHuUR6XwhuuruYfwejEYNpSqgcd&ocid=winp2widget&timeOut=2000&activityId=5a52dff7-5c1f-4fe2-95af-84a49d6fe897&user=m-37AD811F3BED6792372A95863A6666F4&caller=bgtask&theme=dark&nw=false&msrc=0&clientLocation=51.47150200000000808%7C11.97245587499999964&clientLocationAccuracy=292.00000000000000000&clientLocationProvider=WiFi&clientLocationTimestamp=2026-03-08T12%3A43%3A02Z&it=app&scn=app_anon&clientFeatures=1&overlay=0&msnup=oQz4DdC0ArnmEEOK3lQP7A%3D%3D",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org",
+--
+      "id" : 241,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 132,7100000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4MjEyMzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ4NXBOVk9keUdpczZQTktpU044ZFJVdVphdThPenBiZkFoTHJqMzd0TVBZU2xWWFZzTWpRK0ZMQjU3dU9XOEEwa21Sc3V6OSt4bWw0SGNKL0lyUkpNWDBiVi91ajkwd3BCdnZuTGs3K0lGc2hrUUZoMGZNaEd3RSt4VGdaUmZ4UXNaSnQycWYxVEgraHcvaXFmb0piMDRCdWRkSzRMVnRkTGRGQUdWRWgwWUU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 165\r\n\r\n",
+         "size" : 165,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:08 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"cac6-jjC2/clqo3O9eiwLJ8uWpQrcyQU\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=lgM7ukL9ZOatkBg6cgre4aWPizp3K90DgLcoG89g6bRgjo6CU5gMbtNvL0oH3cjf0bgkgXmp5C27iCD92yz9cKnpu1uzcCeDE5B7eh%2FyLlW0df%2Fd%2BA%3D%3D\"}]}\r\nCF-RAY: 9d91edf92f51e506-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 8901\r\n\r\n",
+--
+      "id" : 242,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 133,3930000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4MjEyMzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ4NXBOVk9keUdpczZQTktpU044ZFJVdVphdThPenBiZkFoTHJqMzd0TVBZU2xWWFZzTWpRK0ZMQjU3dU9XOEEwa21Sc3V6OSt4bWw0SGNKL0lyUkpNWDBiVi91ajkwd3BCdnZuTGs3K0lGc2hrUUZoMGZNaEd3RSt4VGdaUmZ4UXNaSnQycWYxVEgraHcvaXFmb0piMDRCdWRkSzRMVnRkTGRGQUdWRWgwWUU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 177\r\n\r\n",
+         "size" : 177,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:09 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"17277-q3piEU8azcLvS97VjBxpt2y/5bU\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=l6%2Fw9I9dFJTrldghjYdCg5QyIHBYs49fJGb%2FONE6r8HdxX0y5Cox4VeDUNGIcvAqKSEN0ab696jYlX%2BkaseqUYAss8ioYiIjoP1xM%2F1f85txf71bUA%3D%3D\"}]}\r\nCF-RAY: 9d91edfd7b8c051f-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 35622\r\n\r\n",
+--
+      "id" : 243,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 133,3970000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4MjEyMzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ4NXBOVk9keUdpczZQTktpU044ZFJVdVphdThPenBiZkFoTHJqMzd0TVBZU2xWWFZzTWpRK0ZMQjU3dU9XOEEwa21Sc3V6OSt4bWw0SGNKL0lyUkpNWDBiVi91ajkwd3BCdnZuTGs3K0lGc2hrUUZoMGZNaEd3RSt4VGdaUmZ4UXNaSnQycWYxVEgraHcvaXFmb0piMDRCdWRkSzRMVnRkTGRGQUdWRWgwWUU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 175\r\n\r\n",
+         "size" : 175,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:09 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1674a-LdUchANmAL65bTtMA2ZkW/aDBOE\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=UtQQ2T8RRHz4M3OEodz85eI03pq6JwPBjfFjOVnKbDjsrGzvlJQOWOvxrP2xy5rK4g0f6Bxb8pk%2B4r3AM5SowI8gnk1tuyqr5yXpoFC50Wc7c%2FZIKw%3D%3D\"}]}\r\nCF-RAY: 9d91edfd7d04e517-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 34399\r\n\r\n",
+--
+      "id" : 244,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 133,4020000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4MjEyMzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ4NXBOVk9keUdpczZQTktpU044ZFJVdVphdThPenBiZkFoTHJqMzd0TVBZU2xWWFZzTWpRK0ZMQjU3dU9XOEEwa21Sc3V6OSt4bWw0SGNKL0lyUkpNWDBiVi91ajkwd3BCdnZuTGs3K0lGc2hrUUZoMGZNaEd3RSt4VGdaUmZ4UXNaSnQycWYxVEgraHcvaXFmb0piMDRCdWRkSzRMVnRkTGRGQUdWRWgwWUU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 175\r\n\r\n",
+         "size" : 175,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:09 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1a5b0-0wBK1DJ96R8NFDoB8lg6lVj7UC8\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=CzxUsxZnDBNCeb5Q1xkDJSHdbNSyw2LCjwVjmjE62AU4CmP0EejCjLV66Uh20wTcO7qz43t3UMy5a7%2Fpt96MLAXOOuoiawvaaibZKssHlIZZvCMnDw%3D%3D\"}]}\r\nCF-RAY: 9d91edfd8b65e52f-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 42338\r\n\r\n",
+--
+      "id" : 245,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 133,4090000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4MjEyMzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ4NXBOVk9keUdpczZQTktpU044ZFJVdVphdThPenBiZkFoTHJqMzd0TVBZU2xWWFZzTWpRK0ZMQjU3dU9XOEEwa21Sc3V6OSt4bWw0SGNKL0lyUkpNWDBiVi91ajkwd3BCdnZuTGs3K0lGc2hrUUZoMGZNaEd3RSt4VGdaUmZ4UXNaSnQycWYxVEgraHcvaXFmb0piMDRCdWRkSzRMVnRkTGRGQUdWRWgwWUU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 173\r\n\r\n",
+         "size" : 173,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:09 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1839d-3QJXjR564BPyP5MA+pxPMnGn46I\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=k%2FVll7hlxmmYZ7EadGPVmzsmBGt3ZyYn7L5r3%2BqbPalsFhvEOFQdRUhsAH2rer%2FPz%2BrY3QRWz3Jc4x1Pv6ZSljIGKOoexg5QdphN8loV%2BVAUpEcIZg%3D%3D\"}]}\r\nCF-RAY: 9d91edfd8a1fe529-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 38409\r\n\r\n",
+--
+      "id" : 246,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 133,4140000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4MjEyMzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ4NXBOVk9keUdpczZQTktpU044ZFJVdVphdThPenBiZkFoTHJqMzd0TVBZU2xWWFZzTWpRK0ZMQjU3dU9XOEEwa21Sc3V6OSt4bWw0SGNKL0lyUkpNWDBiVi91ajkwd3BCdnZuTGs3K0lGc2hrUUZoMGZNaEd3RSt4VGdaUmZ4UXNaSnQycWYxVEgraHcvaXFmb0piMDRCdWRkSzRMVnRkTGRGQUdWRWgwWUU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 165\r\n\r\n",
+         "size" : 165,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:09 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"cac6-jjC2/clqo3O9eiwLJ8uWpQrcyQU\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=kopVSntj%2FL51AQIlu2%2Frsvo0X3AbwD51NDll%2FjmSxuk1hnX%2FRLlvv2gj4fs31UuiOU6dnE63xNnbZhDT8HPWBuVN8gRnXHsS%2F0%2FxkkAgJzizkUKfEQ%3D%3D\"}]}\r\nCF-RAY: 9d91edfd9ad834b9-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 8901\r\n\r\n",
+--
+      "id" : 247,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 133,4580000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4MjEyMzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ4NXBOVk9keUdpczZQTktpU044ZFJVdVphdThPenBiZkFoTHJqMzd0TVBZU2xWWFZzTWpRK0ZMQjU3dU9XOEEwa21Sc3V6OSt4bWw0SGNKL0lyUkpNWDBiVi91ajkwd3BCdnZuTGs3K0lGc2hrUUZoMGZNaEd3RSt4VGdaUmZ4UXNaSnQycWYxVEgraHcvaXFmb0piMDRCdWRkSzRMVnRkTGRGQUdWRWgwWUU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 177\r\n\r\n",
+         "size" : 177,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:09 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"17277-q3piEU8azcLvS97VjBxpt2y/5bU\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=4EF8F4NDNAl3h5pQdK0zxUv9eBV5aXPH3%2FuigWp%2FNHqlxfZK7GdkNfAqiCr1O07prIdXjPm4ipQgmNAOtjZuWIw5es8IIrtbxk9I4054GJNePr3R1A%3D%3D\"}]}\r\nCF-RAY: 9d91edfddf6c1b0a-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 35622\r\n\r\n",
+--
+      "id" : 248,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 134,2360000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4MjEyMzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ4NXBOVk9keUdpczZQTktpU044ZFJVdVphdThPenBiZkFoTHJqMzd0TVBZU2xWWFZzTWpRK0ZMQjU3dU9XOEEwa21Sc3V6OSt4bWw0SGNKL0lyUkpNWDBiVi91ajkwd3BCdnZuTGs3K0lGc2hrUUZoMGZNaEd3RSt4VGdaUmZ4UXNaSnQycWYxVEgraHcvaXFmb0piMDRCdWRkSzRMVnRkTGRGQUdWRWgwWUU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 175\r\n\r\n",
+         "size" : 175,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:10 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1674a-LdUchANmAL65bTtMA2ZkW/aDBOE\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=aR%2FGv1iTIcxSiRnzs9Xtouzeifvkuw6vYinh2isLYlI9ar1el6wtAU5%2FCCs2QgXW%2FMEpWttM83LbT90oFeX40MIHxYfzd9dHRCrZvTjuBW7ZSvAReQ%3D%3D\"}]}\r\nCF-RAY: 9d91ee02beb76ab9-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 34399\r\n\r\n",
+--
+      "id" : 249,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 134,4220000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4MjEyMzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ4NXBOVk9keUdpczZQTktpU044ZFJVdVphdThPenBiZkFoTHJqMzd0TVBZU2xWWFZzTWpRK0ZMQjU3dU9XOEEwa21Sc3V6OSt4bWw0SGNKL0lyUkpNWDBiVi91ajkwd3BCdnZuTGs3K0lGc2hrUUZoMGZNaEd3RSt4VGdaUmZ4UXNaSnQycWYxVEgraHcvaXFmb0piMDRCdWRkSzRMVnRkTGRGQUdWRWgwWUU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 175\r\n\r\n",
+         "size" : 175,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:10 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1a5b0-0wBK1DJ96R8NFDoB8lg6lVj7UC8\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2F%2Fdh0u9RI6F8WKRqxADdKhHm2q6jKRSyUtOCwFvflLQYj6w8yecckXIxZQS0M4XYH9VqiauJq7fRX3XIO%2BGVCXAQugyDBlhWRaijkEgGBadZz1Au2g%3D%3D\"}]}\r\nCF-RAY: 9d91ee03d87ae50b-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 42338\r\n\r\n",
+--
+      "id" : 250,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 134,4910000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4MjEyMzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ4NXBOVk9keUdpczZQTktpU044ZFJVdVphdThPenBiZkFoTHJqMzd0TVBZU2xWWFZzTWpRK0ZMQjU3dU9XOEEwa21Sc3V6OSt4bWw0SGNKL0lyUkpNWDBiVi91ajkwd3BCdnZuTGs3K0lGc2hrUUZoMGZNaEd3RSt4VGdaUmZ4UXNaSnQycWYxVEgraHcvaXFmb0piMDRCdWRkSzRMVnRkTGRGQUdWRWgwWUU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 173\r\n\r\n",
+         "size" : 173,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:10 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1839d-3QJXjR564BPyP5MA+pxPMnGn46I\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=YOp5owWe3Cs%2BAKV%2BJ0qiXocqkNIZbXVwcoE4eoSPDJkKRfdlvPHatMfF%2BcNz81mazQ7pWgcGyl%2B%2F%2FBcTXHw78eImnc2gA0zVsi4GYCoT7I7xgHG04A%3D%3D\"}]}\r\nCF-RAY: 9d91ee045b30e51b-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 38409\r\n\r\n",
+--
+      "id" : 251,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 135,9930000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4MjEyMzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ4NXBOVk9keUdpczZQTktpU044ZFJVdVphdThPenBiZkFoTHJqMzd0TVBZU2xWWFZzTWpRK0ZMQjU3dU9XOEEwa21Sc3V6OSt4bWw0SGNKL0lyUkpNWDBiVi91ajkwd3BCdnZuTGs3K0lGc2hrUUZoMGZNaEd3RSt4VGdaUmZ4UXNaSnQycWYxVEgraHcvaXFmb0piMDRCdWRkSzRMVnRkTGRGQUdWRWgwWUU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 244\r\n\r\n",
+         "size" : 244,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:11 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"25bf-FH7x69pItdfLUDVrv8pQLTGpoSc\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=iUuqGTA34TxvY%2FPLFUxsQIxB2CM8EiKksECusLUSyHPl%2B%2B5TqXl9weTDfaSqoElAZEj7Ni7A82G0mYjnWpGiIiOVYY7MGyWF9eOhR2PoKT4yjvGk5g%3D%3D\"}]}\r\nCF-RAY: 9d91ee0dbe0fe51e-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3209\r\n\r\n",
+--
+      "id" : 267,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 138,9980000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-source.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4MjEyMzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ4NXBOVk9keUdpczZQTktpU044ZFJVdVphdThPenBiZkFoTHJqMzd0TVBZU2xWWFZzTWpRK0ZMQjU3dU9XOEEwa21Sc3V6OSt4bWw0SGNKL0lyUkpNWDBiVi91ajkwd3BCdnZuTGs3K0lGc2hrUUZoMGZNaEd3RSt4VGdaUmZ4UXNaSnQycWYxVEgraHcvaXFmb0piMDRCdWRkSzRMVnRkTGRGQUdWRWgwWUU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 1030\r\n\r\n",
+         "size" : 1030,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:14 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"25d-UhPmrYOjvImmFbQ5JKftFQxIoSE\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=9%2FeAg%2Fy%2B%2FlIHO%2Fmzn6lsetH0fwPMr99MgdMdh%2Fpu1YV%2BYd1yxHMB8VZOUg3GV2UbXHEHKVwnn3IO756KN51XkRQnqNVbuk7yFvXK%2FqUreegilHSvbg%3D%3D\"}]}\r\nCF-RAY: 9d91ee207d23761f-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 235\r\n\r\n",
+--
+      "id" : 272,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 141,2920000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4MjEyMzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJ4NXBOVk9keUdpczZQTktpU044ZFJVdVphdThPenBiZkFoTHJqMzd0TVBZU2xWWFZzTWpRK0ZMQjU3dU9XOEEwa21Sc3V6OSt4bWw0SGNKL0lyUkpNWDBiVi91ajkwd3BCdnZuTGs3K0lGc2hrUUZoMGZNaEd3RSt4VGdaUmZ4UXNaSnQycWYxVEgraHcvaXFmb0piMDRCdWRkSzRMVnRkTGRGQUdWRWgwWUU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 92\r\n\r\n",
+         "size" : 92,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:17 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"112-tWcqvIn3MzGxISkm8+/zNoHAKPA\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=OdRd0xEeyA4cguRBBkaWVS30xikWQpp8kxYELQom5vN1I5uu1%2FiRwiR6A0XDzyxRvn4%2BVBFwQFrsBA%2Fq2nUFg4HHPdsTicpreQG7GhfZm%2BBexIdDIg%3D%3D\"}]}\r\nCF-RAY: 9d91ee2ecbb7e511-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 263\r\n\r\n",
+--
+      "id" : 274,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 141,9570000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-subtitle.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4NTczMjMsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJPRUtBQUl2VUw0TWswVFF0emI5YWdGTDRoWWVxUHBLbDZwTTFUcnBYOFJoR3B3WFNoeDZSUDBGaE5uVUdJUDc2aVZJRC9jNUREVkVad1BzZkhPWVQrMDYxT0xsczBNd2RJRlduSUpubXR6ZzNWdk41K1c4dHZIaTBVZFl4cjg3WmdFRnZabk02QkZMQ2s3Q21sMkxBRmF4M2NBbEt6M0x2Rk02K1NMR2E1N0k9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 1030\r\n\r\n",
+         "size" : 1030,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:17 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1690-Vk+nbxEC/kqRAdOdNQ6LdCbTewQ\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2BCAARCEEjJAVOsfW36eZd1b46ZtgxYs0ofYTLPv5OX%2FgZEgjl6ZwZm2ZG3IEvn6R9wP0LXVi7layHQ5qyTWv%2BZJzt6P40pYovp0kZJreyNyx5Vwh8Q%3D%3D\"}]}\r\nCF-RAY: 9d91ee32efba5315-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 968\r\n\r\n",
+--
+      "id" : 275,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 142,3380000000000,
+      "request" : {
+         "header" : "GET /sCnhEbX7rrP03FHGqQzIV3bB311YjYkBVpvgux-A1kz_bOYH55hCzTOhbScQ/dkzThb3kNj6R79chlrcFvuHwcYJq7nkSNL4bvQ_1Db0y37o-mTPO9mCbzvDBP45NdQ0eF1KbMVPFJmJPK-SFMPLxRQCBwFLBD8axDA34N7ju/index.m3u8?token=gylknX9seZfy_Cl7LTcckcpg&expiry=1772988257144 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:16:55 GMT\r\nContent-Type: application/vnd.apple.mpegurl\r\nConnection: close\r\nContent-Length: 193403\r\n\r\n",
+--
+      },
+      "size" : 193403,
+      "speed" : 262066,2162162162,
+      "status" : "200",
+      "type" : "application/vnd.apple.mpegurl",
+      "url" : "https://k1093ns.cloudatocdn.com/sCnhEbX7rrP03FHGqQzIV3bB311YjYkBVpvgux-A1kz_bOYH55hCzTOhbScQ/dkzThb3kNj6R79chlrcFvuHwcYJq7nkSNL4bvQ_1Db0y37o-mTPO9mCbzvDBP45NdQ0eF1KbMVPFJmJPK-SFMPLxRQCBwFLBD8axDA34N7ju/index.m3u8?token=gylknX9seZfy_Cl7LTcckcpg&expiry=1772988257144",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+--
+      "id" : 276,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 143,0060000000000,
+      "request" : {
+         "header" : "GET /sCnhEbX7rrP03FHGqQzIV3bB311YjYkBVpvgux-A1kz_bOYH55hCzTOhbScQ/dkzThb3kNj6R79chlrcFvuHwcYJq7nkSNL4bvQ_1Db0y37o-mTPO9mCbzvDBP45NdQ0eF1KbMVPFJmJPK-SFMPLxRQCBwFLBD8axDA34N7ju/index.m3u8?token=gylknX9seZfy_Cl7LTcckcpg&expiry=1772988257144 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:16:56 GMT\r\nContent-Type: application/vnd.apple.mpegurl\r\nConnection: close\r\nContent-Length: 193403\r\n\r\n",
+--
+      },
+      "size" : 193403,
+      "speed" : 798061,7283950618,
+      "status" : "200",
+      "type" : "application/vnd.apple.mpegurl",
+      "url" : "https://k1093ns.cloudatocdn.com/sCnhEbX7rrP03FHGqQzIV3bB311YjYkBVpvgux-A1kz_bOYH55hCzTOhbScQ/dkzThb3kNj6R79chlrcFvuHwcYJq7nkSNL4bvQ_1Db0y37o-mTPO9mCbzvDBP45NdQ0eF1KbMVPFJmJPK-SFMPLxRQCBwFLBD8axDA34N7ju/index.m3u8?token=gylknX9seZfy_Cl7LTcckcpg&expiry=1772988257144",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+--
+      "id" : 277,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 144,1380000000000,
+      "request" : {
+         "header" : "GET /AsXQ4XDHYmft4kIosWI5zto4f5MmI37U_vgl16yIlASMkTEgj1__BBXQBAiE/ZatXzr3R9mgkSvFg_5AmWydB3TD8cObbbtDalBHWLcEUp_zlTK2xGvavf4XBNephlRgv6PRjpdfNbmNDVgSGTW17CPGBGfoe0bCK7pRP4eyPhrWQXV0lJNROaG7O3zIv6A/s.ts?token=ZaEtBV8LvTqo6-POPrnq6XuG&expiry=1772986616323 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:16:57 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nContent-Range: bytes 0-2905539/2905540\r\nContent-Length: 2905540\r\n\r\n",
+--
+      },
+      "size" : 2905540,
+      "speed" : 885744,2852788784,
+      "status" : "206",
+      "type" : "video/mp2t",
+      "url" : "https://k1093ns.cloudatocdn.com/AsXQ4XDHYmft4kIosWI5zto4f5MmI37U_vgl16yIlASMkTEgj1__BBXQBAiE/ZatXzr3R9mgkSvFg_5AmWydB3TD8cObbbtDalBHWLcEUp_zlTK2xGvavf4XBNephlRgv6PRjpdfNbmNDVgSGTW17CPGBGfoe0bCK7pRP4eyPhrWQXV0lJNROaG7O3zIv6A/s.ts?token=ZaEtBV8LvTqo6-POPrnq6XuG&expiry=1772986616323",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+--
+      "id" : 278,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 144,5360000000000,
+      "request" : {
+         "header" : "GET /1aAXtXAVcmrqOKgZfo8ADfbkzlgPeTkCSHxZN41j1C6PJzTlu6ShxEOM2tAc/4CYrzyEVq2bZyh9neJ5wspMiaGY9lwsT7iiSgsY3mOaWsFF37HLBvCwDjI0CGJkXeNi_bJ2EX_uC6c-8_RtokqN0p3vjMFUW57IjL1Ee7CHqxlinx2t-dCtoiAYb2TaD3A/s.ts?token=vbCQAPsH6AncOuyzKqK5RGOq&expiry=1772986616323 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:16:57 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nContent-Range: bytes 0-1104123/1104124\r\nContent-Length: 1104124\r\n\r\n",
+--
+      },
+      "size" : 1104124,
+      "speed" : 202624,9082905356,
+      "status" : "206",
+      "type" : "video/mp2t",
+      "url" : "https://k1093ns.cloudatocdn.com/1aAXtXAVcmrqOKgZfo8ADfbkzlgPeTkCSHxZN41j1C6PJzTlu6ShxEOM2tAc/4CYrzyEVq2bZyh9neJ5wspMiaGY9lwsT7iiSgsY3mOaWsFF37HLBvCwDjI0CGJkXeNi_bJ2EX_uC6c-8_RtokqN0p3vjMFUW57IjL1Ee7CHqxlinx2t-dCtoiAYb2TaD3A/s.ts?token=vbCQAPsH6AncOuyzKqK5RGOq&expiry=1772986616323",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+--
+      "id" : 279,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 147,6170000000000,
+      "request" : {
+         "header" : "GET /EV1Tc0N28Ryq23emWpYNnJ_9jypi4N72EbyxTPrWOb_QquNdpQMuMdy8CBIB/RFcGJ0aERqSeRgrtotMwtDvDvQf1EFWEM-sU5xEAQ4qgkv5mG3pFIZThowqFBCCt_PFBwW5-atQRVAlzK8ZfeOVvNi99fho0XIStNhFry3k0kMJJfUdM2PwZV9e7G_zerQ/s.ts?token=es_PDP55F_hljO4yV3mvDK1K&expiry=1772986616324 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:17:01 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nContent-Range: bytes 0-1524679/1524680\r\nContent-Length: 1524680\r\n\r\n",
+--
+      },
+      "size" : 1524680,
+      "speed" : 122511,4056224900,
+      "status" : "206",
+      "type" : "video/mp2t",
+      "url" : "https://k1093ns.cloudatocdn.com/EV1Tc0N28Ryq23emWpYNnJ_9jypi4N72EbyxTPrWOb_QquNdpQMuMdy8CBIB/RFcGJ0aERqSeRgrtotMwtDvDvQf1EFWEM-sU5xEAQ4qgkv5mG3pFIZThowqFBCCt_PFBwW5-atQRVAlzK8ZfeOVvNi99fho0XIStNhFry3k0kMJJfUdM2PwZV9e7G_zerQ/s.ts?token=es_PDP55F_hljO4yV3mvDK1K&expiry=1772986616324",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+--
+      "id" : 280,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 150,0640000000000,
+      "request" : {
+         "header" : "GET /L8pz-UHwwsdGW7K3vnqWK5NITSxPfkVcb1lkDE85dUg7SqrM7wUyXtMTPqcZ/V-PHre4yXFRtVm73WDPME7sl3_2Mp5g4Z3i8S8PUp-EOc6CLaiZFkjns_DrHfG38twgam5GYxOVkiziwt3gnBv_uNB2RYfk5mnHatTRolRNILYUfjWZadLIW18cYtQqWMA/s.ts?token=UzJ6WEjv5LUEci5udOPUmH_G&expiry=1772986616324 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:17:03 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nContent-Range: bytes 0-6665727/6665728\r\nContent-Length: 2293561\r\n\r\n",
+--
+      },
+      "size" : 2293561,
+      "speed" : 113566,0610860848,
+      "status" : "206",
+      "type" : "video/mp2t",
+      "url" : "https://k1093ns.cloudatocdn.com/L8pz-UHwwsdGW7K3vnqWK5NITSxPfkVcb1lkDE85dUg7SqrM7wUyXtMTPqcZ/V-PHre4yXFRtVm73WDPME7sl3_2Mp5g4Z3i8S8PUp-EOc6CLaiZFkjns_DrHfG38twgam5GYxOVkiziwt3gnBv_uNB2RYfk5mnHatTRolRNILYUfjWZadLIW18cYtQqWMA/s.ts?token=UzJ6WEjv5LUEci5udOPUmH_G&expiry=1772986616324",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+--
+      "id" : 281,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 160,1270000000000,
+      "request" : {
+         "header" : "GET /_zrzuXXWAR97ZChWGOPJa2Apz1tT1P2XdtwZcWcGgYHH9kx5T4Y89RO94cFB/VRFHmiAhvnQMpdcvACvbhOR8CS1PcbA5TDhpoMF4It_G7yGg4pa_Ou9HS2unxcAU3CI0tnPMuGFnsIhkVAR_ZV33v8vCt9QJurlFDLD9BeRGukx-HKXZiJmi3Yh5CPQjkQ/s.ts?token=yGTLvDo7HXcyHo_56MObpvWK&expiry=1772986616324 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:17:13 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nContent-Range: bytes 0-5361383/5361384\r\nContent-Length: 622393\r\n\r\n",
+--
+      },
+      "size" : 622393,
+      "speed" : 60601,07003891051,
+      "status" : "206",
+      "type" : "video/mp2t",
+      "url" : "https://k1093ns.cloudatocdn.com/_zrzuXXWAR97ZChWGOPJa2Apz1tT1P2XdtwZcWcGgYHH9kx5T4Y89RO94cFB/VRFHmiAhvnQMpdcvACvbhOR8CS1PcbA5TDhpoMF4It_G7yGg4pa_Ou9HS2unxcAU3CI0tnPMuGFnsIhkVAR_ZV33v8vCt9QJurlFDLD9BeRGukx-HKXZiJmi3Yh5CPQjkQ/s.ts?token=yGTLvDo7HXcyHo_56MObpvWK&expiry=1772986616324",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "cache.vavoo.tv",
+--
+      "id" : 286,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 175,1710000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4ODY1ODcsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJLVE0zeE9PeU5FTUt5VWpvTEJpNm80MDE3VDNaZ3ZkVE42d0NTdjNzMFBocmdpZlk3NVh2c0hxejFWdGVPVEkxbHN3NWR1WmRVbCt1R0FMZ1A3cTR3MnVvWkpqYzdHY3N6UnIycGRKRVJNWkdOQlNrOGdHZ2pOTEhDcitVUHJ4blZ2M3FzRXVyNWlXN1ZMeU1STUJ0NFVNU1Jlc0JpQTBzeFJHMmRYK3R1WVU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 152\r\n\r\n",
+         "size" : 152,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:51 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"27c0-suPTqq0dXa6esfG/LNwBdWks2aY\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Ow5K8XwpB6rY11wS2C4lJe14hgZjlx%2BDzGivYs2SYrS8lAi6HTUu%2BuAQwugAmM6OxPzvlmdD6gMN7WwIkQ55FSgzk5mRtEhBEY2uvK40Ly6hDG4riA%3D%3D\"}]}\r\nCF-RAY: 9d91ef028ba1e525-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3981\r\n\r\n",
+--
+      "id" : 287,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 175,6470000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-source.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4ODY1ODcsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJLVE0zeE9PeU5FTUt5VWpvTEJpNm80MDE3VDNaZ3ZkVE42d0NTdjNzMFBocmdpZlk3NVh2c0hxejFWdGVPVEkxbHN3NWR1WmRVbCt1R0FMZ1A3cTR3MnVvWkpqYzdHY3N6UnIycGRKRVJNWkdOQlNrOGdHZ2pOTEhDcitVUHJ4blZ2M3FzRXVyNWlXN1ZMeU1STUJ0NFVNU1Jlc0JpQTBzeFJHMmRYK3R1WVU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 923\r\n\r\n",
+         "size" : 923,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:51 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"208-+pR/KwpdRzSww4w2JfxF0NPUvpQ\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=OkTOyHo0Z9wpTcpwC1bIRQjB1FaYWZUhkB54cqhwD7F7brbEXZV2A1REbPIpZfQDkl7DoC8zv5za39uuFu5YtHIIUIL%2BWUAjRrN9sbfVTYMr3BQg7A%3D%3D\"}]}\r\nCF-RAY: 9d91ef057cb1b9de-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 217\r\n\r\n",
+--
+         "header" : "GET /get?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmFjyo2cz2PQiU9SCMLs5lmVOmTk.jpg&size=small HTTP/1.1\r\nHost: cache.vavoo.tv\r\nConnection: keep-alive\r\nsec-ch-ua: \"Not;A=Brand\";v=\"99\", \"Chromium\";v=\"106\"\r\nsec-ch-ua-mobile: ?0\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) vavoo/3.1.4 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36\r\nsec-ch-ua-platform: \"Windows\"\r\nAccept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8\r\nSec-Fetch-Site: cross-site\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: image\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:52 GMT\r\nContent-Type: image/png\r\nConnection: keep-alive\r\netag: \"K/z/wvBUSypeaCCyhklazfoyoC2Kbz9vgPKEYDz4Soi_M.small\"\r\nlast-modified: Tue, 24 Feb 2026 13:10:41 GMT\r\ncache-control: public, max-age=31536000\r\nexpires: Mon, 08 Mar 2027 12:44:52 GMT\r\nStrict-Transport-Security: max-age=15724800; includeSubDomains\r\nContent-Length: 70180\r\n\r\n",
+         "size" : 70180,
+         "type" : "image/png"
+      },
+      "size" : 70180,
+      "speed" : 82876,60069848661,
+--
+      "id" : 301,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 179,0930000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4ODY1ODcsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJLVE0zeE9PeU5FTUt5VWpvTEJpNm80MDE3VDNaZ3ZkVE42d0NTdjNzMFBocmdpZlk3NVh2c0hxejFWdGVPVEkxbHN3NWR1WmRVbCt1R0FMZ1A3cTR3MnVvWkpqYzdHY3N6UnIycGRKRVJNWkdOQlNrOGdHZ2pOTEhDcitVUHJ4blZ2M3FzRXVyNWlXN1ZMeU1STUJ0NFVNU1Jlc0JpQTBzeFJHMmRYK3R1WVU9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 92\r\n\r\n",
+         "size" : 92,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:55 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"112-8rvpJSmsANZCPvcX6VHrS+kxdmw\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ndjN1GozjcUeXrbWmVetBcf%2BBF5E8rv5Q1PgVX%2FSMwhDMraScI5DaBUa%2Flofbt2fNhmcHM6Np9aIqb4sMNxZyT9CBjTXEevJ3PUPQd%2FuFkLMQZk96g%3D%3D\"}]}\r\nCF-RAY: 9d91ef1b08c9c760-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 264\r\n\r\n",
+--
+      "id" : 303,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 179,7780000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-subtitle.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4OTQ5ODgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJMVThzbytKVjlUWTJZN1JidG91R3lyYUl3SDBCemZiSE5pc21uSGZYc1U5QU5qaDVBcHVWM0prUGYzdnlFTHIyK3hINGlKd2VwR2FrZjluVU9oTjl1YUh4VXllSXBVQjRZbTBYZ0tDTjUvUDlTZXo5TDJjSTR3eFQzTlV4aTEydWVuKzZiTVhheEVFTUhsZTNZd2ozWlZJYy9zMW1PdEdPSTVNcm1tZ1pHaFE9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 923\r\n\r\n",
+         "size" : 923,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:44:55 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"3e8a-F1BGO8ifLQ28XqbFDCqNJtVQkP4\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ru%2Fzh6nr0%2BvcohP4Bb%2BaOoAJJ5ULhiQbzgWIHA48IT9GpK1fItHyZ%2FOxcxrHSe2%2BjzGtKdfOtjj5vxROUp%2BCPVt73YBKCWquwUgSlyPdC%2FW%2BmviB4g%3D%3D\"}]}\r\nCF-RAY: 9d91ef1f592fe50b-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 2032\r\n\r\n",
+--
+      "id" : 304,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 179,8830000000000,
+      "request" : {
+         "header" : "GET /Z9wzf3nLtrYXtU_MKLBOaDt0k4Jvop7kn-W-zms4Dto9XT3ZCP3CoDmFyRaR/utKJg6zJGv2ddu1ruYAteI2FMj0cPqIuES1xk0-APgtljdNNWPQyvqvdSXM1Td2FYXCwFK4JJl4GsMEYVFr3ZyPiW5_O_iblEyK8_YHqkjIA/index.m3u8?token=lY4zY_3coxuJDQYSgQmn21rd&expiry=1772988295058 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:17:33 GMT\r\nContent-Type: application/vnd.apple.mpegurl\r\nConnection: close\r\nContent-Length: 327521\r\n\r\n",
+--
+      },
+      "size" : 327521,
+      "speed" : 52004,91439441979,
+      "status" : "200",
+      "type" : "application/vnd.apple.mpegurl",
+      "url" : "https://k1093ns.cloudatocdn.com/Z9wzf3nLtrYXtU_MKLBOaDt0k4Jvop7kn-W-zms4Dto9XT3ZCP3CoDmFyRaR/utKJg6zJGv2ddu1ruYAteI2FMj0cPqIuES1xk0-APgtljdNNWPQyvqvdSXM1Td2FYXCwFK4JJl4GsMEYVFr3ZyPiW5_O_iblEyK8_YHqkjIA/index.m3u8?token=lY4zY_3coxuJDQYSgQmn21rd&expiry=1772988295058",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+--
+      "id" : 305,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 180,5960000000000,
+      "request" : {
+         "header" : "GET /Z9wzf3nLtrYXtU_MKLBOaDt0k4Jvop7kn-W-zms4Dto9XT3ZCP3CoDmFyRaR/utKJg6zJGv2ddu1ruYAteI2FMj0cPqIuES1xk0-APgtljdNNWPQyvqvdSXM1Td2FYXCwFK4JJl4GsMEYVFr3ZyPiW5_O_iblEyK8_YHqkjIA/index.m3u8?token=lY4zY_3coxuJDQYSgQmn21rd&expiry=1772988295058 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:17:34 GMT\r\nContent-Type: application/vnd.apple.mpegurl\r\nConnection: close\r\nContent-Length: 454179\r\n\r\n",
+--
+      },
+      "size" : 454179,
+      "speed" : 289990,4336734693,
+      "status" : "200",
+      "type" : "application/vnd.apple.mpegurl",
+      "url" : "https://k1093ns.cloudatocdn.com/Z9wzf3nLtrYXtU_MKLBOaDt0k4Jvop7kn-W-zms4Dto9XT3ZCP3CoDmFyRaR/utKJg6zJGv2ddu1ruYAteI2FMj0cPqIuES1xk0-APgtljdNNWPQyvqvdSXM1Td2FYXCwFK4JJl4GsMEYVFr3ZyPiW5_O_iblEyK8_YHqkjIA/index.m3u8?token=lY4zY_3coxuJDQYSgQmn21rd&expiry=1772988295058",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+--
+      "id" : 306,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 182,4660000000000,
+      "request" : {
+         "header" : "GET /DPSx4fCfEziITxmXsuLi0JAAURB6VTom7hXf2113QooC7cM7fYJCyeI9sE6V/Ng0Xr7czRa0lgBrel4u8uJqwdRmhWXEtX9Jx31IZsDC8ktgR6LtEtHpYrUMiB4wkeEC1a-Momcl6QjGJHRJqHA3eUFtbtnCNsQWeRQhKN39ddTPiNuGL6UiAAcW89YxOUQ/s.ts?token=5QZk4XL4yQAiUZz-En2EUYWr&expiry=1772986653960 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:17:35 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nContent-Range: bytes 0-3296767/3296768\r\nContent-Length: 573241\r\n\r\n",
+--
+      },
+      "size" : 573241,
+      "speed" : 149589,9374348279,
+      "status" : "206",
+      "type" : "video/mp2t",
+      "url" : "https://k1093ns.cloudatocdn.com/DPSx4fCfEziITxmXsuLi0JAAURB6VTom7hXf2113QooC7cM7fYJCyeI9sE6V/Ng0Xr7czRa0lgBrel4u8uJqwdRmhWXEtX9Jx31IZsDC8ktgR6LtEtHpYrUMiB4wkeEC1a-Momcl6QjGJHRJqHA3eUFtbtnCNsQWeRQhKN39ddTPiNuGL6UiAAcW89YxOUQ/s.ts?token=5QZk4XL4yQAiUZz-En2EUYWr&expiry=1772986653960",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+--
+      "id" : 307,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 183,1300000000000,
+      "request" : {
+         "header" : "GET /4BufDLyzO6vPwH0zAmbwvbcpGsnvK9Uw05dFFwttxjEfv31404c7-UybTixw/hXDNWUM0pe0GcmaD9vnE8X5JA4H32wJqyZFlJyd7R8NV4lvp0I3prydoEtmMOz1CUMSuxQINUeYwz34pB-W4JcJVSrphD-STsKUDd6QDb65iF_3MeEOPpROoJk9hbxaLGg/s.ts?token=8jBFZz90xegr48mZoPX16nVI&expiry=1772986653960 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:17:36 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nContent-Range: bytes 0-4020755/4020756\r\nContent-Length: 278329\r\n\r\n",
+--
+      },
+      "size" : 278329,
+      "speed" : 91627,79237844941,
+      "status" : "206",
+      "type" : "video/mp2t",
+      "url" : "https://k1093ns.cloudatocdn.com/4BufDLyzO6vPwH0zAmbwvbcpGsnvK9Uw05dFFwttxjEfv31404c7-UybTixw/hXDNWUM0pe0GcmaD9vnE8X5JA4H32wJqyZFlJyd7R8NV4lvp0I3prydoEtmMOz1CUMSuxQINUeYwz34pB-W4JcJVSrphD-STsKUDd6QDb65iF_3MeEOPpROoJk9hbxaLGg/s.ts?token=8jBFZz90xegr48mZoPX16nVI&expiry=1772986653960",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "www.kool.to",
+--
+      "id" : 308,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 186,3680000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4OTQ5ODgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJMVThzbytKVjlUWTJZN1JidG91R3lyYUl3SDBCemZiSE5pc21uSGZYc1U5QU5qaDVBcHVWM0prUGYzdnlFTHIyK3hINGlKd2VwR2FrZjluVU9oTjl1YUh4VXllSXBVQjRZbTBYZ0tDTjUvUDlTZXo5TDJjSTR3eFQzTlV4aTEydWVuKzZiTVhheEVFTUhsZTNZd2ozWlZJYy9zMW1PdEdPSTVNcm1tZ1pHaFE9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 94\r\n\r\n",
+         "size" : 94,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:02 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"cf-3CLZEVJBW+qfbf9yu6ps3ywXq/o\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=bD1Mk8CD1sFp8BgxDkouGEWMbTHlxOFg78yvy0tWi6uj2a1TWKQfvsPPAIA78ysaRT8ltNPx6qGE2SqWPgsVEzwpHdJHqf8U3Vc0fPUMaoxRD2Lysg%3D%3D\"}]}\r\nCF-RAY: 9d91ef488d949227-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 184\r\n\r\n",
+--
+      "id" : 311,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 187,6890000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4OTQ5ODgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJMVThzbytKVjlUWTJZN1JidG91R3lyYUl3SDBCemZiSE5pc21uSGZYc1U5QU5qaDVBcHVWM0prUGYzdnlFTHIyK3hINGlKd2VwR2FrZjluVU9oTjl1YUh4VXllSXBVQjRZbTBYZ0tDTjUvUDlTZXo5TDJjSTR3eFQzTlV4aTEydWVuKzZiTVhheEVFTUhsZTNZd2ozWlZJYy9zMW1PdEdPSTVNcm1tZ1pHaFE9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 43546\r\n\r\n",
+         "size" : 43546,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 500 Internal Server Error\r\nDate: Sun, 08 Mar 2026 12:45:03 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"55-rZnKzstJNSp8sb3GyVW6zv4HWPs\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\ncf-cache-status: DYNAMIC\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=g8Ah5x0Ig80izh%2Bmx2%2FX1EFiKyzioz92ThHFnM5HUSw%2BzGhVxBrJ2d7ZgjgHrKpJgMA%2F48WzbGVMebRU4jdVTkiplmkNDAjuRplZenICx8DRO30iaA%3D%3D\"}]}\r\nCF-RAY: 9d91ef50ba14e51a-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 85\r\n\r\n",
+--
+      "id" : 312,
+      "ip" : "[2606:4700:3033::6815:4d56]:443",
+      "method" : "POST",
+      "offset" : 188,5240000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-subtitle.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4OTQ5ODgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJMVThzbytKVjlUWTJZN1JidG91R3lyYUl3SDBCemZiSE5pc21uSGZYc1U5QU5qaDVBcHVWM0prUGYzdnlFTHIyK3hINGlKd2VwR2FrZjluVU9oTjl1YUh4VXllSXBVQjRZbTBYZ0tDTjUvUDlTZXo5TDJjSTR3eFQzTlV4aTEydWVuKzZiTVhheEVFTUhsZTNZd2ozWlZJYy9zMW1PdEdPSTVNcm1tZ1pHaFE9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 923\r\n\r\n",
+         "size" : 923,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:04 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"3e8a-F1BGO8ifLQ28XqbFDCqNJtVQkP4\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=CpuaIUP%2BWMher8HavwRLK55ZF5npiTozV%2Bbj2th6Ng1xwEjL7ezGvn6McATNVHXak39Kvh2PEu3lhl2D3VVBrT9I%2BugaUY97gZb29iIwVVTn39zMAA%3D%3D\"}]}\r\nCF-RAY: 9d91ef560d15e522-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 2032\r\n\r\n",
+--
+      "id" : 315,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 194,1320000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4OTQ5ODgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJMVThzbytKVjlUWTJZN1JidG91R3lyYUl3SDBCemZiSE5pc21uSGZYc1U5QU5qaDVBcHVWM0prUGYzdnlFTHIyK3hINGlKd2VwR2FrZjluVU9oTjl1YUh4VXllSXBVQjRZbTBYZ0tDTjUvUDlTZXo5TDJjSTR3eFQzTlV4aTEydWVuKzZiTVhheEVFTUhsZTNZd2ozWlZJYy9zMW1PdEdPSTVNcm1tZ1pHaFE9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 94\r\n\r\n",
+         "size" : 94,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:10 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"cf-p4GCj3zuJ4w/tHiMDMSpF4vyVjQ\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5SnCQ6U7KKYy9HiDI5K4fXDIJ53denKG8tAMEwMgXbmETnNB875nbWTMHFcjlhDong%2BX084Ca%2FbU7YKWjUpRBd9Ak44ueVT9u5oxg70QoFX%2BaA26eg%3D%3D\"}]}\r\nCF-RAY: 9d91ef791877e519-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 183\r\n\r\n",
+--
+      "id" : 318,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 195,0740000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4OTQ5ODgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJMVThzbytKVjlUWTJZN1JidG91R3lyYUl3SDBCemZiSE5pc21uSGZYc1U5QU5qaDVBcHVWM0prUGYzdnlFTHIyK3hINGlKd2VwR2FrZjluVU9oTjl1YUh4VXllSXBVQjRZbTBYZ0tDTjUvUDlTZXo5TDJjSTR3eFQzTlV4aTEydWVuKzZiTVhheEVFTUhsZTNZd2ozWlZJYy9zMW1PdEdPSTVNcm1tZ1pHaFE9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 43542\r\n\r\n",
+         "size" : 43542,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 500 Internal Server Error\r\nDate: Sun, 08 Mar 2026 12:45:11 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"55-rZnKzstJNSp8sb3GyVW6zv4HWPs\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\ncf-cache-status: DYNAMIC\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=pM0Rx7GCiQABdTrgI4h0vB0waCn1X66Z%2F5xsG55lIbGB%2BVMUS5GLhUC3dFFp2dSfmPARP9z5c0Iza%2BxixjDGaTQol%2FhuUOAQ48MAsv0flmZs38452g%3D%3D\"}]}\r\nCF-RAY: 9d91ef7eec8d5315-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 85\r\n\r\n",
+--
+      "id" : 319,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 195,9750000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-subtitle.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4OTQ5ODgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJMVThzbytKVjlUWTJZN1JidG91R3lyYUl3SDBCemZiSE5pc21uSGZYc1U5QU5qaDVBcHVWM0prUGYzdnlFTHIyK3hINGlKd2VwR2FrZjluVU9oTjl1YUh4VXllSXBVQjRZbTBYZ0tDTjUvUDlTZXo5TDJjSTR3eFQzTlV4aTEydWVuKzZiTVhheEVFTUhsZTNZd2ozWlZJYy9zMW1PdEdPSTVNcm1tZ1pHaFE9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 923\r\n\r\n",
+         "size" : 923,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:11 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"3e8a-F1BGO8ifLQ28XqbFDCqNJtVQkP4\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=HnUKI%2BSNfpl%2F06%2FjfaoCN4itP58VjxphED6Us1A7KGHNnjhh0ufjA2P8pmGI3%2By4PmubT0a6LAoGwVMzQwwP0M8N4nehjF4c6HZnsF912vEMdfLIkA%3D%3D\"}]}\r\nCF-RAY: 9d91ef849deed933-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 2032\r\n\r\n",
+--
+      "id" : 320,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 202,6220000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4OTQ5ODgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJMVThzbytKVjlUWTJZN1JidG91R3lyYUl3SDBCemZiSE5pc21uSGZYc1U5QU5qaDVBcHVWM0prUGYzdnlFTHIyK3hINGlKd2VwR2FrZjluVU9oTjl1YUh4VXllSXBVQjRZbTBYZ0tDTjUvUDlTZXo5TDJjSTR3eFQzTlV4aTEydWVuKzZiTVhheEVFTUhsZTNZd2ozWlZJYy9zMW1PdEdPSTVNcm1tZ1pHaFE9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 98\r\n\r\n",
+         "size" : 98,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:18 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"d0-uVVvlg88zKc7dP5WQG3fF5aS/fw\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Jc6d419UIs4NweKqhFH2sSNPLSKseg3fSGvK4%2B5NtRVesiUljPax49G28dcV4i4qLRMgR8gRW%2B2KNTVAecq4C1710kd97HsBKiPPy6rEuCutKtvvGA%3D%3D\"}]}\r\nCF-RAY: 9d91efae1f624b12-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 185\r\n\r\n",
+--
+      "id" : 322,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 203,5180000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4OTQ5ODgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJMVThzbytKVjlUWTJZN1JidG91R3lyYUl3SDBCemZiSE5pc21uSGZYc1U5QU5qaDVBcHVWM0prUGYzdnlFTHIyK3hINGlKd2VwR2FrZjluVU9oTjl1YUh4VXllSXBVQjRZbTBYZ0tDTjUvUDlTZXo5TDJjSTR3eFQzTlV4aTEydWVuKzZiTVhheEVFTUhsZTNZd2ozWlZJYy9zMW1PdEdPSTVNcm1tZ1pHaFE9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 27615\r\n\r\n",
+         "size" : 27615,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:19 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"13a-InWNx5H9UvmlnKk6oSnVkwW7kJo\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ZxbD1cBYA8mqSRaELJ9AolmMML9omnapm5KzeKaNADwRX%2FUNV1Qyd1%2B8b8iKYemIx1zlQyjfxfpsKFb5s9TcJW6yPriQcaNu14WThrxLWTx3AYo5HQ%3D%3D\"}]}\r\nCF-RAY: 9d91efb3b967c760-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 288\r\n\r\n",
+--
+      "id" : 323,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 204,2470000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-subtitle.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM4OTQ5ODgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NDgwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJMVThzbytKVjlUWTJZN1JidG91R3lyYUl3SDBCemZiSE5pc21uSGZYc1U5QU5qaDVBcHVWM0prUGYzdnlFTHIyK3hINGlKd2VwR2FrZjluVU9oTjl1YUh4VXllSXBVQjRZbTBYZ0tDTjUvUDlTZXo5TDJjSTR3eFQzTlV4aTEydWVuKzZiTVhheEVFTUhsZTNZd2ozWlZJYy9zMW1PdEdPSTVNcm1tZ1pHaFE9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 923\r\n\r\n",
+         "size" : 923,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:20 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"3e8a-F1BGO8ifLQ28XqbFDCqNJtVQkP4\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=mdxaazcfOyjkFfC2v5LQnpnjHVM3pkESNWVHhqCAl26TLMOyQD9B%2BNPoF5IIEC7p1yhRkj43Bqxckz7GdnjzdMThYI3iD6kmvS20XxgWn2s6vofeKg%3D%3D\"}]}\r\nCF-RAY: 9d91efb84bbf1931-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 2032\r\n\r\n",
+--
+      "id" : 326,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 211,3780000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MjM3MzQsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJRZ0h6QkpBeGpiK3grNVVuK2FoSHhiYXFac1ZTSnBtQVlpd25CbDlxOWpieEM5TnNCeWhBNkh6dXlzOTFXK1VzYUZQTnY3dFdGRkRDb1RmSzl3RkdTMVR4VWNET2crMmhhd295WVBvbkt3RnVXOVZCK1poSEZSN2lGUFJZdjFkQVQ4NW9HbXJDWFU5Sk5wTS9Eb2FoVmN5NWtEOWl5bnFQcnYxemdmcW1mTTQ9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 173\r\n\r\n",
+         "size" : 173,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:27 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1839d-3QJXjR564BPyP5MA+pxPMnGn46I\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=M4JV%2FbmbAQGxW02rE1y2dnAfetUoe0frLNeLIyioZ%2FISq9%2FsPkgtGIpI3bcykb%2FElWD7UmP2Or2mOwWt2RGCDxw12XC661kEmWKroTDLN3%2BW%2BqEx5Q%3D%3D\"}]}\r\nCF-RAY: 9d91efe4d81ff56c-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 38409\r\n\r\n",
+--
+      "id" : 333,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 213,1250000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MjM3MzQsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJRZ0h6QkpBeGpiK3grNVVuK2FoSHhiYXFac1ZTSnBtQVlpd25CbDlxOWpieEM5TnNCeWhBNkh6dXlzOTFXK1VzYUZQTnY3dFdGRkRDb1RmSzl3RkdTMVR4VWNET2crMmhhd295WVBvbkt3RnVXOVZCK1poSEZSN2lGUFJZdjFkQVQ4NW9HbXJDWFU5Sk5wTS9Eb2FoVmN5NWtEOWl5bnFQcnYxemdmcW1mTTQ9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 128\r\n\r\n",
+         "size" : 128,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:29 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"282e-mmhwt8bZfZt3zK6F23cW7XpjStA\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=IKUEf%2BCgpGg%2BkU47HEU6XpqiEgOYqLy4BmaDNBW%2BUEz46BITcTjBAjvnuuo%2BEEDi8XPQzMtLKIzFuBGoP%2BJvfmZ%2FG%2B%2Bv43hQMQsAu%2Fwkzs4Ug2p9Ng%3D%3D\"}]}\r\nCF-RAY: 9d91efefcb5cdd58-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3926\r\n\r\n",
+--
+      "id" : 341,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 213,9340000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MjM3MzQsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJRZ0h6QkpBeGpiK3grNVVuK2FoSHhiYXFac1ZTSnBtQVlpd25CbDlxOWpieEM5TnNCeWhBNkh6dXlzOTFXK1VzYUZQTnY3dFdGRkRDb1RmSzl3RkdTMVR4VWNET2crMmhhd295WVBvbkt3RnVXOVZCK1poSEZSN2lGUFJZdjFkQVQ4NW9HbXJDWFU5Sk5wTS9Eb2FoVmN5NWtEOWl5bnFQcnYxemdmcW1mTTQ9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 794\r\n\r\n",
+         "size" : 794,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:29 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"2829-cTeWw3Cml78aRQFtAz9l2bNxma8\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SzETBTHQ1nJryMUaAHYEOpLISaTjSW%2B8mqd%2FFDyg3S%2B7EWpQcNFFutx003aOl0bjSa2UJgKLxueCytZLzXZIuysycFLgGt8EcoeasSNgFDS7%2F%2FcNFA%3D%3D\"}]}\r\nCF-RAY: 9d91eff4cb0ee52e-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3925\r\n\r\n",
+--
+      "id" : 352,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 215,0430000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-source.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MjM3MzQsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJRZ0h6QkpBeGpiK3grNVVuK2FoSHhiYXFac1ZTSnBtQVlpd25CbDlxOWpieEM5TnNCeWhBNkh6dXlzOTFXK1VzYUZQTnY3dFdGRkRDb1RmSzl3RkdTMVR4VWNET2crMmhhd295WVBvbkt3RnVXOVZCK1poSEZSN2lGUFJZdjFkQVQ4NW9HbXJDWFU5Sk5wTS9Eb2FoVmN5NWtEOWl5bnFQcnYxemdmcW1mTTQ9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 794\r\n\r\n",
+         "size" : 794,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:30 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"11f-mxd9w3NyE8MKsClYYak4xBEePPA\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=U7hXenPjmr2kLIaj2EWMhCZTsUS6vU%2Fx%2BbqgYIM0kTY6mg6J3oU4f%2Fc%2B3oQ2SoGQrnoVOGcHnlOeJpqQkKnLgO4eeVuelf%2BHfcUBzbZTsBdhp4x4sw%3D%3D\"}]}\r\nCF-RAY: 9d91effbcf91e521-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 161\r\n\r\n",
+--
+      "id" : 368,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 217,0080000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MjM3MzQsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJRZ0h6QkpBeGpiK3grNVVuK2FoSHhiYXFac1ZTSnBtQVlpd25CbDlxOWpieEM5TnNCeWhBNkh6dXlzOTFXK1VzYUZQTnY3dFdGRkRDb1RmSzl3RkdTMVR4VWNET2crMmhhd295WVBvbkt3RnVXOVZCK1poSEZSN2lGUFJZdjFkQVQ4NW9HbXJDWFU5Sk5wTS9Eb2FoVmN5NWtEOWl5bnFQcnYxemdmcW1mTTQ9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 104\r\n\r\n",
+         "size" : 104,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:32 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"d6-fzrwbYVQC8hUaeAqNOHylIApF7w\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=jpEIWuoFVY3Ygn2z2lurglP1dPVN%2FykE4ful5ZA%2BL%2BTvZP0jnP4bzefoz%2Fqiwqm%2Bxq3omE59N4Fi6CgKcxjNJ4JmUspoQLQPLzCxJQC1mItwI%2BvdEQ%3D%3D\"}]}\r\nCF-RAY: 9d91f0080a70ca63-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 193\r\n\r\n",
+--
+      "id" : 372,
+      "ip" : "20.189.173.28:443",
+      "method" : "POST",
+      "offset" : 217,3040000000000,
+      "request" : {
+         "header" : "POST /OneCollector/1.0 HTTP/1.1\r\nAccept: */*\r\nAPIKey: 4bb4d6f7cafc4e9292f972dca2dcde42-bd019ee8-e59c-4b0f-a02c-84e72157a3ef-7485\r\nClient-Id: NO_AUTH\r\nContent-Encoding: deflate\r\nContent-Type: application/bond-compact-binary\r\nExpect: 100-continue\r\nSDK-Version: EVT-Windows-C++-No-3.8.249.1\r\nUpload-Time: 1772973931492\r\nHost: mobile.events.data.microsoft.com\r\nConnection: Keep-Alive\r\nCache-Control: no-cache\r\nContent-Length: 541\r\n\r\n",
+         "size" : 541,
+         "type" : "application/bond-compact-binary"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 403 All Events Throttled.\r\nContent-Type: application/json\r\nServer: Microsoft-HTTPAPI/2.0\r\nStrict-Transport-Security: max-age=31536000\r\nCollector-Error: All Events Throttled.\r\nAccess-Control-Allow-Headers: Collector-Error\r\nAccess-Control-Allow-Methods: POST\r\nAccess-Control-Allow-Credentials: true\r\nAccess-Control-Allow-Origin: *\r\nAccess-Control-Expose-Headers: Collector-Error\r\nDate: Sun, 08 Mar 2026 12:45:33 GMT\r\nContent-Length: 52\r\n\r\n",
+--
+      "id" : 375,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 217,4000000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MjM3MzQsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJRZ0h6QkpBeGpiK3grNVVuK2FoSHhiYXFac1ZTSnBtQVlpd25CbDlxOWpieEM5TnNCeWhBNkh6dXlzOTFXK1VzYUZQTnY3dFdGRkRDb1RmSzl3RkdTMVR4VWNET2crMmhhd295WVBvbkt3RnVXOVZCK1poSEZSN2lGUFJZdjFkQVQ4NW9HbXJDWFU5Sk5wTS9Eb2FoVmN5NWtEOWl5bnFQcnYxemdmcW1mTTQ9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 794\r\n\r\n",
+         "size" : 794,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:33 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"2829-cTeWw3Cml78aRQFtAz9l2bNxma8\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=r56ZaQMAU3KCjThj94wmyFFN5u9Kl6c%2F1h12obeBSgXcU%2FbKzZ00vldnv4BfFs6daJfnppr8sRC5xyB71ugOK5HCfwLC8gLW8qHJWrLNvtRfWqYBKw%3D%3D\"}]}\r\nCF-RAY: 9d91f00a7ecee527-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3925\r\n\r\n",
+--
+      "id" : 385,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 218,4990000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-source.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MzMyNjgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJOcHBCZnFLajNwMFdKamxBYlpjSW9Md2xCL1NXV0VhdThNbUZIaVhzaUtJQk92KzVucHE1cG5EdnhUSWNjUmZlNGdvRVVJZ0h6aVNobzhtUlMzU05sTm90M00rWGhLSkw0dVYzMUx4NUJHYWFUTDl1OGVnMURZS01rYWNpRUtQWVNHL1lna0RoUXo2ZlVIL0FzOFJpekNWMGVHczhhaFpzZkxuTzR4VjgxWGs9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 794\r\n\r\n",
+         "size" : 794,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:34 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"11f-mxd9w3NyE8MKsClYYak4xBEePPA\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=q1PkfLYCt9oGyXNdiXzlv2zef%2FCfH8Xm82p3URUI1jt7jMwOL%2BipscHhQYExVOB3ybaxIdYMs0mkXI44ZR6uGSe3j3EPy1HlC0vpmykJzjNDszSUSg%3D%3D\"}]}\r\nCF-RAY: 9d91f0116cf6e526-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 161\r\n\r\n",
+--
+      "id" : 386,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 218,5110000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MjM3MzQsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJRZ0h6QkpBeGpiK3grNVVuK2FoSHhiYXFac1ZTSnBtQVlpd25CbDlxOWpieEM5TnNCeWhBNkh6dXlzOTFXK1VzYUZQTnY3dFdGRkRDb1RmSzl3RkdTMVR4VWNET2crMmhhd295WVBvbkt3RnVXOVZCK1poSEZSN2lGUFJZdjFkQVQ4NW9HbXJDWFU5Sk5wTS9Eb2FoVmN5NWtEOWl5bnFQcnYxemdmcW1mTTQ9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 87435\r\n\r\n",
+         "size" : 87435,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:35 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"70-p4n1ImHkvcfIm2ZCByaOy7W//UI\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xp6HQ3IZE4fLftetVD3ZHgpRf2MAiGxe4wSgIBbhQfg1Q8p6iusFKlptwCHu9qCdot9KnX2ZupbajYbe%2BWUVfP2P3BqKJogfWi7RyKr%2FltxZQdi9GQ%3D%3D\"}]}\r\nCF-RAY: 9d91f0116fb0e50a-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 132\r\n\r\n",
+--
+      "id" : 391,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 219,5260000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-subtitle.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MzMyNjgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJOcHBCZnFLajNwMFdKamxBYlpjSW9Md2xCL1NXV0VhdThNbUZIaVhzaUtJQk92KzVucHE1cG5EdnhUSWNjUmZlNGdvRVVJZ0h6aVNobzhtUlMzU05sTm90M00rWGhLSkw0dVYzMUx4NUJHYWFUTDl1OGVnMURZS01rYWNpRUtQWVNHL1lna0RoUXo2ZlVIL0FzOFJpekNWMGVHczhhaFpzZkxuTzR4VjgxWGs9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 794\r\n\r\n",
+         "size" : 794,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:35 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"58bc-a5fBgwJwDu4ItYKaJZdRzMb1AWA\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=VZyMjMMaWn%2B8zOq8aduCzHoqIsoi0CAWZMtvtViuhPb6DeE4otoEEXqFQukj96KLGJ2ySIu5h7R22tICH6uJGrMilyc%2BSCR2hxc2PZs25KeLRxz50Q%3D%3D\"}]}\r\nCF-RAY: 9d91f017bc8de522-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3029\r\n\r\n",
+--
+      "id" : 399,
+      "ip" : "[2606:4700:3037::6815:602e]:443",
+      "method" : "GET",
+      "offset" : 220,3950000000000,
+      "request" : {
+         "header" : "GET /get_video?id=bKQvAVVm0DUPve7&expires=1773043933&ip=FOSODRyUDHSXFxf&token=r3HjTjuSPSLD HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: streamtape.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 302 Found\r\nDate: Sun, 08 Mar 2026 12:45:36 GMT\r\nContent-Type: text/html; charset=UTF-8\r\nConnection: close\r\nServer: cloudflare\r\nCache-Control: private\r\nAccess-Control-Allow-Origin: *\r\nLocation: https://858141720.tapecontent.net/radosgw/bKQvAVVm0DUPve7/Y7coe9eFkTy6OS4TwXUBHZS40LZfuuKfcy6JZVknwjm5FRXh4bSpA8HNZgmnB4mo-m57eKfZF7e4tJVj7YjgOvQVjcq09IMiFKDYQ4UHcNqu_1K9GjH9Hutf3yOE6qUBnKbyy62v_eKgX1Bje6s5I97OhkGIH9eLY4sq1fXr9a9hP8nit20VAuvN6YqcVwByqRMTDx2AJIXJZtH1LKMbN1UIsIX4GznVLqiEKGm9jCfsb4y_7F78wtRT6gXaXs_Y-bb4UnlrfQtLHmqjzYLY1PVMnezwWIOmA73rC_gsSg2cUH4xZzwBr87qkrg/Watch+shelter+2026+ENG.ts.mp4\r\nSet-Cookie: _b=kube12; path=/\r\ncf-cache-status: DYNAMIC\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Hzl7UyGTBECcYoDa6mUVGv%2FR%2BXdWOb2LPJ0FIjeVJ%2F2lEWxFJW08uv%2F2NsHwWwsiNVLBqp%2BAjnbPmb6%2FUgqp6cAWw5%2BNThjvnd%2Fyhk3spsLbWOC8Ou8%2F8Q%3D%3D\"}]}\r\nCF-RAY: 9d91f01d3a02e519-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 0\r\n\r\n",
+--
+      },
+      "size" : 0,
+      "speed" : 8540,000000000000,
+      "status" : "302",
+      "type" : "text/html; charset=utf-8",
+      "url" : "https://streamtape.com/get_video?id=bKQvAVVm0DUPve7&expires=1773043933&ip=FOSODRyUDHSXFxf&token=r3HjTjuSPSLD",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "cache.vavoo.tv",
+--
+      "id" : 437,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 226,9240000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MzMyNjgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJOcHBCZnFLajNwMFdKamxBYlpjSW9Md2xCL1NXV0VhdThNbUZIaVhzaUtJQk92KzVucHE1cG5EdnhUSWNjUmZlNGdvRVVJZ0h6aVNobzhtUlMzU05sTm90M00rWGhLSkw0dVYzMUx4NUJHYWFUTDl1OGVnMURZS01rYWNpRUtQWVNHL1lna0RoUXo2ZlVIL0FzOFJpekNWMGVHczhhaFpzZkxuTzR4VjgxWGs9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 94\r\n\r\n",
+         "size" : 94,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:42 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"cf-862ZorzGhcXCMvdL5S9CGqHDkhc\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tLosYy4%2Fn%2FgLq9bGlOficBj77mH0GTRoD%2BaM2XdfpUHIzxt%2BV%2F1qDDeQHAwjT51mOXBM%2F89LAU694WxoLXz2z%2FAskeSZz2uIo%2Fbc%2F9kOCl6%2B0zr6ZQ%3D%3D\"}]}\r\nCF-RAY: 9d91f0460eb8e508-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 184\r\n\r\n",
+--
+      "id" : 443,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 227,8140000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MzMyNjgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJOcHBCZnFLajNwMFdKamxBYlpjSW9Md2xCL1NXV0VhdThNbUZIaVhzaUtJQk92KzVucHE1cG5EdnhUSWNjUmZlNGdvRVVJZ0h6aVNobzhtUlMzU05sTm90M00rWGhLSkw0dVYzMUx4NUJHYWFUTDl1OGVnMURZS01rYWNpRUtQWVNHL1lna0RoUXo2ZlVIL0FzOFJpekNWMGVHczhhaFpzZkxuTzR4VjgxWGs9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 104\r\n\r\n",
+         "size" : 104,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:43 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"d6-dl0n5rBVMGpqtyQ/tIDqe+r72t4\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=crII9nI4u%2B5468sPPudaoDs9xLyxcVjoz1ebt2bcyJKxl49%2BcpSqje74Zd5dUUCQI%2BzNeCb8nxup%2Fa72gZhEJnuDdITRNjI%2FXcLT34o6NrEn3mErSg%3D%3D\"}]}\r\nCF-RAY: 9d91f04b9a66e508-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 192\r\n\r\n",
+--
+      "id" : 446,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 228,3370000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MzMyNjgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJOcHBCZnFLajNwMFdKamxBYlpjSW9Md2xCL1NXV0VhdThNbUZIaVhzaUtJQk92KzVucHE1cG5EdnhUSWNjUmZlNGdvRVVJZ0h6aVNobzhtUlMzU05sTm90M00rWGhLSkw0dVYzMUx4NUJHYWFUTDl1OGVnMURZS01rYWNpRUtQWVNHL1lna0RoUXo2ZlVIL0FzOFJpekNWMGVHczhhaFpzZkxuTzR4VjgxWGs9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 43551\r\n\r\n",
+         "size" : 43551,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 500 Internal Server Error\r\nDate: Sun, 08 Mar 2026 12:45:44 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"55-rZnKzstJNSp8sb3GyVW6zv4HWPs\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\ncf-cache-status: DYNAMIC\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5n29EsYeI5fPd8ZCezHK%2FGdXt8Yc7D%2FtgwzQc9hpk898AZTpKelDlyfq%2Fhe3UlGOjtwJae%2FSir7Kzp29UgRsUAmD5THQ9m4gdPJXP7JkC3R4x9g2Rg%3D%3D\"}]}\r\nCF-RAY: 9d91f04eccede52d-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 85\r\n\r\n",
+--
+      "id" : 447,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 228,5630000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MzMyNjgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJOcHBCZnFLajNwMFdKamxBYlpjSW9Md2xCL1NXV0VhdThNbUZIaVhzaUtJQk92KzVucHE1cG5EdnhUSWNjUmZlNGdvRVVJZ0h6aVNobzhtUlMzU05sTm90M00rWGhLSkw0dVYzMUx4NUJHYWFUTDl1OGVnMURZS01rYWNpRUtQWVNHL1lna0RoUXo2ZlVIL0FzOFJpekNWMGVHczhhaFpzZkxuTzR4VjgxWGs9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 87439\r\n\r\n",
+         "size" : 87439,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:45 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"70-yDTnBnQdOV7ucHvIiT8TkRSYKMc\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=VMa7bvYHVnqqRUA6hHyTu5J1AVg733lwiy42twZoycP8aW43fMXKXudKSaATxh4bhKGbcn7UzUy1E9EOl7hKtEpwAr5tHrJrV%2BphhOjPxDBojS35IA%3D%3D\"}]}\r\nCF-RAY: 9d91f050381615ec-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 132\r\n\r\n",
+--
+      "id" : 448,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 229,7060000000000,
+      "request" : {
+         "header" : "POST /mediahubmx-subtitle.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzM5MzMyNjgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTEwMDAwMCxcInVzZXJcIjpcInFUK2JlQy9acjNVZFNkNzlrcldPQTV1N0gwMnMvazdTbUJWNHhJeE1KWXM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJWQVZPT1wiLFwidmVyc2lvblwiOlwiMy4xLjRcIixcInBsYXRmb3JtXCI6XCJlbGVjdHJvblwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJOcHBCZnFLajNwMFdKamxBYlpjSW9Md2xCL1NXV0VhdThNbUZIaVhzaUtJQk92KzVucHE1cG5EdnhUSWNjUmZlNGdvRVVJZ0h6aVNobzhtUlMzU05sTm90M00rWGhLSkw0dVYzMUx4NUJHYWFUTDl1OGVnMURZS01rYWNpRUtQWVNHL1lna0RoUXo2ZlVIL0FzOFJpekNWMGVHczhhaFpzZkxuTzR4VjgxWGs9In0=\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 794\r\n\r\n",
+         "size" : 794,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:45:45 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"58bc-a5fBgwJwDu4ItYKaJZdRzMb1AWA\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tninBYl6krkqUUTJR8sCcNagpYoI4oUWupDZ%2F2tkiEeAZ9%2BOOJtxrFif%2F%2BH5pgZPPpMzc5rUAOUDfTXge967HFYlNstn1rmRUGKOdJCXt3GNO0fDsA%3D%3D\"}]}\r\nCF-RAY: 9d91f05769bee523-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3029\r\n\r\n",
+--
+      "id" : 449,
+      "ip" : "[2606:4700:3037::6815:602e]:443",
+      "method" : "GET",
+      "offset" : 229,7290000000000,
+      "request" : {
+         "header" : "GET /get_video?id=bKQvAVVm0DUPve7&expires=1773043943&ip=FOSODRyUDHSXFxf&token=hMq3yaLKDxfF HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: streamtape.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 302 Found\r\nDate: Sun, 08 Mar 2026 12:45:45 GMT\r\nContent-Type: text/html; charset=UTF-8\r\nConnection: close\r\nServer: cloudflare\r\nCache-Control: private\r\nAccess-Control-Allow-Origin: *\r\nLocation: https://858141720.tapecontent.net/radosgw/bKQvAVVm0DUPve7/o46qnDP4Ic7LFY22JJqISvr1D8xpzZ5gPxK2x1Iy1UrLVCBBKJCr61qYwr6RwjDl3pgTj5wMWmLNSw8eP5o0zMBWfPda-pNpsbXosEPLTEvlX53J8PThtKjCgAMHLWf0GZqvkzv6dqyc0NGQOdc4LdEH6VRUc8HZwU7M4ILNfiOpUHQAsbkUiBZYPynZX9et4WF2Bkd_1ds1xh-qSlsT5gXb5eISo39p1NOFYDzf4IU_DD6h0hA-ofvB5tNukZWuaA2QSFjEeGa5pX1z1e_BeoLD7AsafkcmlWmh6SR-GwMLL0QngcdujLFozeA/Watch+shelter+2026+ENG.ts.mp4\r\nSet-Cookie: _b=kube17; path=/\r\ncf-cache-status: DYNAMIC\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=otttFJWsl9OdSMeESJolDq%2FkASwU6kWX2SHlbyyRhFrxaDsGkcO9hlACh97dyVkf2t81ghKVuvxbAVhTghyN4BgDfXPviGC1H%2BG7hOip4VD4IWAxUJuAnw%3D%3D\"}]}\r\nCF-RAY: 9d91f0578fc2ac01-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 0\r\n\r\n",
+--
+      },
+      "size" : 0,
+      "speed" : 21844,82758620689,
+      "status" : "302",
+      "type" : "text/html; charset=utf-8",
+      "url" : "https://streamtape.com/get_video?id=bKQvAVVm0DUPve7&expires=1773043943&ip=FOSODRyUDHSXFxf&token=hMq3yaLKDxfF",
+      "user" : "isada"
+   },
+   {
+      "application" : "VAVOO.exe *64",
+      "domain" : "858141720.tapecontent.net",
