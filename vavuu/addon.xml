@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.vavooto" name="VAVOOTO" version="1.0" provider-name="Kostya Lolinger">
+	<requires>
+		<import addon="script.module.requests"/>
+		<import addon="script.module.infotagger"/>
+		<import addon="inputstream.ffmpegdirect" optional="true"/>
+		<import addon="script.module.pydevd" optional="true"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.python.module" library="resources" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="de_DE">Vavoo.to</summary>
+		<summary lang="en_GB">Vavoo.to</summary>
+		<description lang="de_DE">Vavoo.to</description>
+		<description lang="en_GB">Vavoo.to</description>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+	</extension>
+</addon>
