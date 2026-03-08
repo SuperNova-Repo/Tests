@@ -1,0 +1,2202 @@
+[
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "wpad",
+      "duration" : 0,008999999999999999,
+      "id" : 688,
+      "ip" : "[2a02:3100:22d5:c000:ab6:57ff:fe0c:2140]:80",
+      "method" : "GET",
+      "offset" : 0,0000000000000000,
+      "request" : {
+         "header" : "GET /wpad.dat HTTP/1.1\r\nHost: wpad\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) watched/4.0.1 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 400 Bad Request\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 2148\r\n\r\n",
+         "size" : 2148,
+         "type" : "text/html; charset=utf-8"
+      },
+      "size" : 2148,
+      "speed" : 281333,3333333334,
+      "status" : "400",
+      "type" : "text/html; charset=utf-8",
+      "url" : "http://wpad/wpad.dat",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "wpad",
+      "duration" : 0,008999999999999999,
+      "id" : 689,
+      "ip" : "[2a02:3100:22d5:c000:ab6:57ff:fe0c:2140]:80",
+      "method" : "GET",
+      "offset" : 0,001000000000000000,
+      "request" : {
+         "header" : "GET /wpad.dat HTTP/1.1\r\nHost: wpad\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) watched/4.0.1 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36\r\nAccept-Encoding: gzip, deflate\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 400 Bad Request\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 2148\r\n\r\n",
+         "size" : 2148,
+         "type" : "text/html; charset=utf-8"
+      },
+      "size" : 2148,
+      "speed" : 279000,0000000000,
+      "status" : "400",
+      "type" : "text/html; charset=utf-8",
+      "url" : "http://wpad/wpad.dat",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "wpad",
+      "duration" : 0,01000000000000000,
+      "id" : 690,
+      "ip" : "[2a02:3100:22d5:c000:ab6:57ff:fe0c:2140]:80",
+      "method" : "GET",
+      "offset" : 0,01900000000000000,
+      "request" : {
+         "header" : "GET /wpad.dat HTTP/1.1\r\nHost: wpad\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) watched/4.0.1 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 400 Bad Request\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 2148\r\n\r\n",
+         "size" : 2148,
+         "type" : "text/html; charset=utf-8"
+      },
+      "size" : 2148,
+      "speed" : 253200,0000000000,
+      "status" : "400",
+      "type" : "text/html; charset=utf-8",
+      "url" : "http://wpad/wpad.dat",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.watched.com",
+      "duration" : 0,06700000000000000,
+      "id" : 691,
+      "ip" : "95.217.242.169:443",
+      "method" : "GET",
+      "offset" : 0,3270000000000000,
+      "request" : {
+         "header" : "GET /update/check/electron/latest.yml?name=WATCHED&app=com.watched.play&version=undefined&platform=win&arch=x64&electron-channel=latest&electron-version=4.0.1 HTTP/1.1\r\nHost: www.watched.com\r\nConnection: keep-alive\r\nx-user-staging-id: 187e0c00-2951-5141-afdb-3855481fdac8\r\nUser-Agent: electron-builder\r\nCache-Control: no-cache\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:23 GMT\r\nContent-Type: text/vnd.yaml; charset=utf-8\r\nConnection: keep-alive\r\nVary: Accept-Encoding\r\nContent-Encoding: gzip\r\nStrict-Transport-Security: max-age=15724800; includeSubDomains\r\nContent-Length: 35\r\n\r\n",
+         "size" : 35,
+         "type" : "text/vnd.yaml; charset=utf-8"
+      },
+      "size" : 35,
+      "speed" : 11089,55223880597,
+      "status" : "200",
+      "type" : "text/vnd.yaml; charset=utf-8",
+      "url" : "https://www.watched.com/update/check/electron/latest.yml?name=WATCHED&app=com.watched.play&version=undefined&platform=win&arch=x64&electron-channel=latest&electron-version=4.0.1",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "wpad",
+      "duration" : 0,006000000000000000,
+      "id" : 692,
+      "ip" : "[2a02:3100:22d5:c000:ab6:57ff:fe0c:2140]:80",
+      "method" : "GET",
+      "offset" : 0,8040000000000000,
+      "request" : {
+         "header" : "GET /wpad.dat HTTP/1.1\r\nHost: wpad\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) watched/4.0.1 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 400 Bad Request\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 1432\r\n\r\n",
+         "size" : 1432,
+         "type" : "text/html; charset=utf-8"
+      },
+      "size" : 1432,
+      "speed" : 302666,6666666667,
+      "status" : "400",
+      "type" : "text/html; charset=utf-8",
+      "url" : "http://wpad/wpad.dat",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.watched.com",
+      "duration" : 0,4310000000000000,
+      "id" : 693,
+      "ip" : "95.217.242.169:443",
+      "method" : "POST",
+      "offset" : 1,807000000000000,
+      "request" : {
+         "header" : "POST /api/app/ping HTTP/1.1\r\nHost: www.watched.com\r\nConnection: close\r\naccept: application/json\r\ncontent-type: application/json; charset=utf-8\r\nuser-agent: electron-fetch/1.0 electron (+https://github.com/arantes555/electron-fetch)\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 1011\r\n\r\n",
+         "size" : 1011,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:24 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nVary: Accept-Encoding\r\nContent-Encoding: gzip\r\nStrict-Transport-Security: max-age=15724800; includeSubDomains\r\nContent-Length: 1901\r\n\r\n",
+         "size" : 1901,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 2912,
+      "speed" : 8229,698375870070,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.watched.com/api/app/ping",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1190000000000000,
+      "id" : 694,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 2,829000000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 55\r\n\r\n",
+         "size" : 55,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:25 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"483a-26Mkoj5LQefHGNLO0c1K3n3+ONU\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=fRA3Ck63peSTFOfxqSGTtGukzwaBC%2BqYu45Bya55KhjZxMoe8HqoDzTf%2BQ8jtLFD%2F75bV%2FhOLSHe4YgSkZ39JDMpUHELMNBjD8dWVuO3y8CtAUA%2BvA%3D%3D\"}]}\r\nCF-RAY: 9d91f72ecc78e505-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3841\r\n\r\n",
+         "size" : 3841,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 3896,
+      "speed" : 41546,21848739496,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1450000000000000,
+      "id" : 695,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 2,831000000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 55\r\n\r\n",
+         "size" : 55,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:25 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"483a-26Mkoj5LQefHGNLO0c1K3n3+ONU\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=qiybdO7l3llg%2B4eKeOYHd%2FPa%2Fjm474iRwkwbyiaKM0hbVgHRPhe5lvXMoxpTX8Xsi2JdqxwpQ7c8A1FjSFK5PBExW0IvrmdwTx04b75kEbENcXbVFQ%3D%3D\"}]}\r\nCF-RAY: 9d91f72ecd9011c6-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3841\r\n\r\n",
+         "size" : 3841,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 3896,
+      "speed" : 34068,96551724138,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1150000000000000,
+      "id" : 696,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 3,788000000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 31\r\n\r\n",
+         "size" : 31,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:26 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"483a-26Mkoj5LQefHGNLO0c1K3n3+ONU\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=vaNIBPcnW4jrqM19T40ZpE2SgtNzo%2Fc%2BAvWtYzyWejKlkciNJgk%2Ff9GutXVTZsP4k1NEfDHLX3SjXCeGd2kgjEEq2Lf%2FVK%2Fnw7IfNZVSyV87A97hNw%3D%3D\"}]}\r\nCF-RAY: 9d91f734cbc94f3e-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3841\r\n\r\n",
+         "size" : 3841,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 3872,
+      "speed" : 42782,60869565217,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,5310000000000000,
+      "id" : 697,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 4,286000000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyMjQ3MzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6Im1RZGFVNE41WHltUXBjYnBOSDI5ak5iM1JJajcreEFtR1pMV3dYbXhXYUtua0JpYkJCN3ZtZm14d0wwOE9oYXB0NUUwRXVqSkNNWVA3aWp0cXZ4ald4cTFVb2dENnJ4eDVyYTZ1dFJUR0d6TG5paUlsRlNUN1RoVWxQU1pUSjcrU2tvcFZLQ3c4cm9UajdpUG1uUWV5S0pVeGVkb3FqVFpCVFZJekdYcENEQT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 901\r\n\r\n",
+         "size" : 901,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:27 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"12c95-u5KVeVg17vIoCEEYRry4gmGlyww\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=mBS1nioFaphf4x2r0GFtq5GS%2B6uLtQu3ukU1fWtInjWrX4KK6ShOo%2BZ21zdeBonEEmXjLvhsj%2BRuoS3vLVtUVokzd5uNERPYUZxZbDqdpcBZKh7m4A%3D%3D\"}]}\r\nCF-RAY: 9d91f737d9d8e525-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 28057\r\n\r\n",
+         "size" : 28057,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 28958,
+      "speed" : 57736,34651600753,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-item.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "wpad",
+      "duration" : 0,01500000000000000,
+      "id" : 698,
+      "ip" : "[2a02:3100:22d5:c000:ab6:57ff:fe0c:2140]:80",
+      "method" : "GET",
+      "offset" : 8,028000000000000,
+      "request" : {
+         "header" : "GET /wpad.dat HTTP/1.1\r\nHost: wpad\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) watched/4.0.1 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36\r\nAccept-Encoding: gzip, deflate\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 400 Bad Request\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 2148\r\n\r\n",
+         "size" : 2148,
+         "type" : "text/html; charset=utf-8"
+      },
+      "size" : 2148,
+      "speed" : 167400,0000000000,
+      "status" : "400",
+      "type" : "text/html; charset=utf-8",
+      "url" : "http://wpad/wpad.dat",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "wpad",
+      "duration" : 0,01500000000000000,
+      "id" : 699,
+      "ip" : "[2a02:3100:22d5:c000:ab6:57ff:fe0c:2140]:80",
+      "method" : "GET",
+      "offset" : 8,029999999999999,
+      "request" : {
+         "header" : "GET /wpad.dat HTTP/1.1\r\nHost: wpad\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) watched/4.0.1 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 400 Bad Request\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 2148\r\n\r\n",
+         "size" : 2148,
+         "type" : "text/html; charset=utf-8"
+      },
+      "size" : 2148,
+      "speed" : 168800,0000000000,
+      "status" : "400",
+      "type" : "text/html; charset=utf-8",
+      "url" : "http://wpad/wpad.dat",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "wpad",
+      "duration" : 0,02600000000000000,
+      "id" : 700,
+      "ip" : "[2a02:3100:22d5:c000:ab6:57ff:fe0c:2140]:80",
+      "method" : "GET",
+      "offset" : 8,039999999999999,
+      "request" : {
+         "header" : "GET /wpad.dat HTTP/1.1\r\nHost: wpad\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) watched/4.0.1 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 400 Bad Request\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 2148\r\n\r\n",
+         "size" : 2148,
+         "type" : "text/html; charset=utf-8"
+      },
+      "size" : 2148,
+      "speed" : 97384,61538461539,
+      "status" : "400",
+      "type" : "text/html; charset=utf-8",
+      "url" : "http://wpad/wpad.dat",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "wpad",
+      "duration" : 0,01000000000000000,
+      "id" : 701,
+      "ip" : "[2a02:3100:22d5:c000:ab6:57ff:fe0c:2140]:80",
+      "method" : "GET",
+      "offset" : 8,836000000000000,
+      "request" : {
+         "header" : "GET /wpad.dat HTTP/1.1\r\nHost: wpad\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) watched/4.0.1 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 400 Bad Request\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 2148\r\n\r\n",
+         "size" : 2148,
+         "type" : "text/html; charset=utf-8"
+      },
+      "size" : 2148,
+      "speed" : 253200,0000000000,
+      "status" : "400",
+      "type" : "text/html; charset=utf-8",
+      "url" : "http://wpad/wpad.dat",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1860000000000000,
+      "id" : 702,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 10,88200000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 31\r\n\r\n",
+         "size" : 31,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:33 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"483a-26Mkoj5LQefHGNLO0c1K3n3+ONU\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ffH%2F4xZOP%2BZWR5pOTz2f1tR7SHsTkBc2HG08JBBWzEbgIiMRIegF%2BLPPsmn6Vnen9L8ZpQg2EX5MP2PC%2FivQzz5H4KM8BZZQMg%2BQW8qETuEhlvx5Ag%3D%3D\"}]}\r\nCF-RAY: 9d91f7611d6de505-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3841\r\n\r\n",
+         "size" : 3841,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 3872,
+      "speed" : 26451,61290322581,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,4320000000000000,
+      "id" : 703,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 11,27300000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyMjQ3MzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6Im1RZGFVNE41WHltUXBjYnBOSDI5ak5iM1JJajcreEFtR1pMV3dYbXhXYUtua0JpYkJCN3ZtZm14d0wwOE9oYXB0NUUwRXVqSkNNWVA3aWp0cXZ4ald4cTFVb2dENnJ4eDVyYTZ1dFJUR0d6TG5paUlsRlNUN1RoVWxQU1pUSjcrU2tvcFZLQ3c4cm9UajdpUG1uUWV5S0pVeGVkb3FqVFpCVFZJekdYcENEQT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 175\r\n\r\n",
+         "size" : 175,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:34 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1674a-LdUchANmAL65bTtMA2ZkW/aDBOE\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=WGAF3wNOmhM3fPF%2Frmza%2B7iApbrhlOHbM%2B%2Bz8C5%2FCyP85cg%2BeHA2kpZrnWVmkyEd7GnxlA4BW6vGNJJd37bGnkoxrnTG6qNo7i39NSMsAWZf%2BdaI6w%3D%3D\"}]}\r\nCF-RAY: 9d91f7639f99e512-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 34399\r\n\r\n",
+         "size" : 34399,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 34574,
+      "speed" : 83993,05555555556,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-catalog.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,3650000000000000,
+      "id" : 704,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 16,01800000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyMjQ3MzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6Im1RZGFVNE41WHltUXBjYnBOSDI5ak5iM1JJajcreEFtR1pMV3dYbXhXYUtua0JpYkJCN3ZtZm14d0wwOE9oYXB0NUUwRXVqSkNNWVA3aWp0cXZ4ald4cTFVb2dENnJ4eDVyYTZ1dFJUR0d6TG5paUlsRlNUN1RoVWxQU1pUSjcrU2tvcFZLQ3c4cm9UajdpUG1uUWV5S0pVeGVkb3FqVFpCVFZJekdYcENEQT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 207\r\n\r\n",
+         "size" : 207,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:39 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"12c95-0ZamHI+gFtHFSLsok99x5ey2oy0\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=q%2BxNXqh8c4WlCcGVRqh4n0Q2l7tDj9b%2FmD%2B%2Bp8aFu7J0zu1g6rZUYqYtBBvXnnlrmmFP%2BUWnaAcLZhjacNK8Mp45uPLYvIy80DQM1Frd0%2FbGubSe0w%3D%3D\"}]}\r\nCF-RAY: 9d91f7813df3e512-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 28120\r\n\r\n",
+         "size" : 28120,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 28327,
+      "speed" : 82282,19178082192,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-item.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,2680000000000000,
+      "id" : 705,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 16,43400000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyMjQ3MzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6Im1RZGFVNE41WHltUXBjYnBOSDI5ak5iM1JJajcreEFtR1pMV3dYbXhXYUtua0JpYkJCN3ZtZm14d0wwOE9oYXB0NUUwRXVqSkNNWVA3aWp0cXZ4ald4cTFVb2dENnJ4eDVyYTZ1dFJUR0d6TG5paUlsRlNUN1RoVWxQU1pUSjcrU2tvcFZLQ3c4cm9UajdpUG1uUWV5S0pVeGVkb3FqVFpCVFZJekdYcENEQT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 901\r\n\r\n",
+         "size" : 901,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:39 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"12c95-u5KVeVg17vIoCEEYRry4gmGlyww\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=f5Y7LGXARAJcD%2FHxt3jbplQS%2FcHOWKq9Y8sKs47C0YW2d6qaAQJY5TTGC%2B2x3Vs9bRfiSU089QowCFA6SGStWCY0qLZKpa6pkB0ZAIm5ilIUy6O8mw%3D%3D\"}]}\r\nCF-RAY: 9d91f783cecbda39-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 28057\r\n\r\n",
+         "size" : 28057,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 28958,
+      "speed" : 114395,5223880597,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-item.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,3470000000000000,
+      "id" : 706,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 16,76400000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyMjQ3MzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6Im1RZGFVNE41WHltUXBjYnBOSDI5ak5iM1JJajcreEFtR1pMV3dYbXhXYUtua0JpYkJCN3ZtZm14d0wwOE9oYXB0NUUwRXVqSkNNWVA3aWp0cXZ4ald4cTFVb2dENnJ4eDVyYTZ1dFJUR0d6TG5paUlsRlNUN1RoVWxQU1pUSjcrU2tvcFZLQ3c4cm9UajdpUG1uUWV5S0pVeGVkb3FqVFpCVFZJekdYcENEQT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 901\r\n\r\n",
+         "size" : 901,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:39 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"12c95-u5KVeVg17vIoCEEYRry4gmGlyww\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=lcdAvqKfLzAFpBOXrbWyP%2BwfDOT02SMbFr%2F288QybiqRodL6CHyNeGA3FlxWyNqlplsLPKh7q4KVw1VFMTLVjw2Awcc67EIRDQJ%2FQ536y7GtCdK78A%3D%3D\"}]}\r\nCF-RAY: 9d91f785ef141eca-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 28057\r\n\r\n",
+         "size" : 28057,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 28958,
+      "speed" : 88351,58501440923,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-item.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "Telegram.exe *64",
+      "domain" : "91.108.56.165",
+      "duration" : 0,0000000000000000,
+      "id" : 707,
+      "ip" : "91.108.56.165:80",
+      "method" : "POST",
+      "offset" : 17,70600000000000,
+      "request" : {
+         "header" : "POST /api HTTP/1.1\r\nHost: 91.108.56.165:80\r\nContent-Type: application/x-www-form-urlencoded\r\nConnection: Keep-Alive\r\nAccept-Language: de-DE,en,*\r\nUser-Agent: Mozilla/5.0\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 116\r\n\r\n",
+         "size" : 116,
+         "type" : "application/x-www-form-urlencoded"
+      },
+      "response" : {
+         "header" : "",
+         "size" : 0,
+         "type" : ""
+      },
+      "size" : 116,
+      "speed" : 0,0000000000000000,
+      "status" : "",
+      "type" : "",
+      "url" : "http://91.108.56.165:80/api",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1270000000000000,
+      "id" : 708,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 18,29500000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-source.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyMjQ3MzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6Im1RZGFVNE41WHltUXBjYnBOSDI5ak5iM1JJajcreEFtR1pMV3dYbXhXYUtua0JpYkJCN3ZtZm14d0wwOE9oYXB0NUUwRXVqSkNNWVA3aWp0cXZ4ald4cTFVb2dENnJ4eDVyYTZ1dFJUR0d6TG5paUlsRlNUN1RoVWxQU1pUSjcrU2tvcFZLQ3c4cm9UajdpUG1uUWV5S0pVeGVkb3FqVFpCVFZJekdYcENEQT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 1005\r\n\r\n",
+         "size" : 1005,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:41 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"503-sg4Q/2adzM3STWa+Jnxng7k8t1M\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=jhYwark6MSh7%2Fkm0RTHhulxOeo%2Bn%2Fmi26Irxn8Jny%2BWVk5yIJQJa6hKiovHUeFieS9u6F4m4SqcjKTv%2BgT2fYrdoDLmXBJgllHNfrgYw47WCVLHp8g%3D%3D\"}]}\r\nCF-RAY: 9d91f78f7bf7e50f-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 353\r\n\r\n",
+         "size" : 353,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 1358,
+      "speed" : 24102,36220472441,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-source.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1710000000000000,
+      "id" : 709,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 20,14600000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyMjQ3MzYsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6Im1RZGFVNE41WHltUXBjYnBOSDI5ak5iM1JJajcreEFtR1pMV3dYbXhXYUtua0JpYkJCN3ZtZm14d0wwOE9oYXB0NUUwRXVqSkNNWVA3aWp0cXZ4ald4cTFVb2dENnJ4eDVyYTZ1dFJUR0d6TG5paUlsRlNUN1RoVWxQU1pUSjcrU2tvcFZLQ3c4cm9UajdpUG1uUWV5S0pVeGVkb3FqVFpCVFZJekdYcENEQT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 92\r\n\r\n",
+         "size" : 92,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:43 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"f2-bLE9kykvgX5/sdvP9DZoJsk2O4k\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=LPhRGNOPuwhoo%2BjF7t6P%2FRnYhWYvlKN6wfDhTIqelu%2BKJkFHuvmO%2FJEs9kI7CUEQKftyrRoGlwu1Y7VCvhvit0SAcK9k6oGusU5TStZNrkweVskVzQ%3D%3D\"}]}\r\nCF-RAY: 9d91f79b0b8db4c5-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 239\r\n\r\n",
+         "size" : 239,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 331,
+      "speed" : 11871,34502923976,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-resolve.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.watched.com",
+      "duration" : 0,06500000000000000,
+      "id" : 710,
+      "ip" : "95.217.242.169:443",
+      "method" : "POST",
+      "offset" : 20,28200000000000,
+      "request" : {
+         "header" : "POST /api/app/ping HTTP/1.1\r\nHost: www.watched.com\r\nConnection: close\r\naccept: application/json\r\ncontent-type: application/json; charset=utf-8\r\nuser-agent: electron-fetch/1.0 electron (+https://github.com/arantes555/electron-fetch)\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 1009\r\n\r\n",
+         "size" : 1009,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:43 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nVary: Accept-Encoding\r\nContent-Encoding: gzip\r\nStrict-Transport-Security: max-age=15724800; includeSubDomains\r\nContent-Length: 1779\r\n\r\n",
+         "size" : 1779,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 2788,
+      "speed" : 52661,53846153846,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.watched.com/api/app/ping",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,2680000000000000,
+      "id" : 711,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 21,00500000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-subtitle.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyNDMyMDcsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IldBbWVtWU9sZzNUL0RsL2pHZ3NzSEJVd3VINGc3OHRtNFdORzFkQUE2V2QwcWQ4WGdQOG5jTGlUZTI0Z1VJVHBpSC84Skp1MmJwa2piQmVoQndyQXBCMHhpbmxvS0hUMk55MjQ2b1huTGRXdlR3clByTm9HQzNFaWxsd2R4cFc1VFpYeDRnK0hPWXpYU1RFSXpUMU9HZkFMZzl4bTRBblo3SGNrZlp0L09aaz0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 1005\r\n\r\n",
+         "size" : 1005,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:44 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"4b95-v8hfNtrRWlbIp6Dqp65hMrCIZZU\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Bk0s%2FyNNN4B3uSc3B4hX%2F90aMxqu6kIMPDZ7Ay06etL67BjRpJaYz9Z3TZE2bwTf%2B8Xoh%2FM3sdIzX1Ov5ViNuBYfOYh1Q%2FpJ8sIMuwepfn2hqomY2A%3D%3D\"}]}\r\nCF-RAY: 9d91f7a06b40359e-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 2782\r\n\r\n",
+         "size" : 2782,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 3787,
+      "speed" : 20500,00000000000,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-subtitle.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "k1191ns.cloudatocdn.com",
+      "duration" : 2,944000000000000,
+      "id" : 712,
+      "ip" : "194.42.205.23:443",
+      "method" : "GET",
+      "offset" : 21,12900000000000,
+      "request" : {
+         "header" : "GET /mS7SDLwnD6h3rUCfy3qkHI4sWYwHNQJ6eTHK0lab4_IrmLFqRUmC_cXHLkz0/o7T4HmhQZNe1KlJAr_ATuK-N0fDKJXkoM66Hb5_ARMiyOc4GtKQFuPyu1r_O0K8kxAGVybETGx7N_Tlc8UCvklc?token=k0_65UOnPrY21LmWvWifs0fe&expiry=1772988643109 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: k1191ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:50:44 GMT\r\nContent-Type: video/mp4\r\nConnection: close\r\nContent-Range: bytes 0-477077570/477077571\r\nContent-Length: 229177\r\n\r\n",
+         "size" : 229177,
+         "type" : "video/mp4"
+      },
+      "size" : 229177,
+      "speed" : 78025,81521739131,
+      "status" : "206",
+      "type" : "video/mp4",
+      "url" : "https://k1191ns.cloudatocdn.com/mS7SDLwnD6h3rUCfy3qkHI4sWYwHNQJ6eTHK0lab4_IrmLFqRUmC_cXHLkz0/o7T4HmhQZNe1KlJAr_ATuK-N0fDKJXkoM66Hb5_ARMiyOc4GtKQFuPyu1r_O0K8kxAGVybETGx7N_Tlc8UCvklc?token=k0_65UOnPrY21LmWvWifs0fe&expiry=1772988643109",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "k1191ns.cloudatocdn.com",
+      "duration" : 13,14500000000000,
+      "id" : 713,
+      "ip" : "194.42.205.23:443",
+      "method" : "GET",
+      "offset" : 23,11200000000000,
+      "request" : {
+         "header" : "GET /mS7SDLwnD6h3rUCfy3qkHI4sWYwHNQJ6eTHK0lab4_IrmLFqRUmC_cXHLkz0/o7T4HmhQZNe1KlJAr_ATuK-N0fDKJXkoM66Hb5_ARMiyOc4GtKQFuPyu1r_O0K8kxAGVybETGx7N_Tlc8UCvklc?token=k0_65UOnPrY21LmWvWifs0fe&expiry=1772988643109 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=474925544-\r\nConnection: close\r\nHost: k1191ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:50:46 GMT\r\nContent-Type: video/mp4\r\nConnection: close\r\nContent-Range: bytes 474925544-477077570/477077571\r\nContent-Length: 884531\r\n\r\n",
+         "size" : 884531,
+         "type" : "video/mp4"
+      },
+      "size" : 884531,
+      "speed" : 67331,91327500952,
+      "status" : "206",
+      "type" : "video/mp4",
+      "url" : "https://k1191ns.cloudatocdn.com/mS7SDLwnD6h3rUCfy3qkHI4sWYwHNQJ6eTHK0lab4_IrmLFqRUmC_cXHLkz0/o7T4HmhQZNe1KlJAr_ATuK-N0fDKJXkoM66Hb5_ARMiyOc4GtKQFuPyu1r_O0K8kxAGVybETGx7N_Tlc8UCvklc?token=k0_65UOnPrY21LmWvWifs0fe&expiry=1772988643109",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1880000000000000,
+      "id" : 714,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 33,70200000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-source.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyNDMyMDcsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IldBbWVtWU9sZzNUL0RsL2pHZ3NzSEJVd3VINGc3OHRtNFdORzFkQUE2V2QwcWQ4WGdQOG5jTGlUZTI0Z1VJVHBpSC84Skp1MmJwa2piQmVoQndyQXBCMHhpbmxvS0hUMk55MjQ2b1huTGRXdlR3clByTm9HQzNFaWxsd2R4cFc1VFpYeDRnK0hPWXpYU1RFSXpUMU9HZkFMZzl4bTRBblo3SGNrZlp0L09aaz0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 1005\r\n\r\n",
+         "size" : 1005,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:56 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"503-sg4Q/2adzM3STWa+Jnxng7k8t1M\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=3VD5nVFPqPRBxmCT5psj4i5iBEW2Kqi8TOUOC0JIO1rkgj47HjbE%2FdeoRWt9BuHpV5uVAzfSQ4yXvGJa%2B05iNHTFSNxfusTiECW9M9qCJwDBzTaSvA%3D%3D\"}]}\r\nCF-RAY: 9d91f7efc91de522-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 353\r\n\r\n",
+         "size" : 353,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 1358,
+      "speed" : 16250,00000000000,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-source.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1180000000000000,
+      "id" : 715,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 36,36600000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyNDMyMDcsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IldBbWVtWU9sZzNUL0RsL2pHZ3NzSEJVd3VINGc3OHRtNFdORzFkQUE2V2QwcWQ4WGdQOG5jTGlUZTI0Z1VJVHBpSC84Skp1MmJwa2piQmVoQndyQXBCMHhpbmxvS0hUMk55MjQ2b1huTGRXdlR3clByTm9HQzNFaWxsd2R4cFc1VFpYeDRnK0hPWXpYU1RFSXpUMU9HZkFMZzl4bTRBblo3SGNrZlp0L09aaz0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 92\r\n\r\n",
+         "size" : 92,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:59 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"112-How9NWT5jVfefMDr6L4I+DCjik4\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=WkZrGBzJVEYCxF2bzNcmf%2Bk80NCQYju98Fup%2BI155q1WzYEqrr5Js8GRqwFHgcc%2FUdMinO93BKeT8TkuQQBR%2BmEoi9R76xTgQxnvxIMMYzhxT%2F%2BILg%3D%3D\"}]}\r\nCF-RAY: 9d91f8006c404b12-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 262\r\n\r\n",
+         "size" : 262,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 354,
+      "speed" : 17440,67796610170,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-resolve.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1100000000000000,
+      "id" : 716,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 36,78100000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-subtitle.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyNDMyMDcsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IldBbWVtWU9sZzNUL0RsL2pHZ3NzSEJVd3VINGc3OHRtNFdORzFkQUE2V2QwcWQ4WGdQOG5jTGlUZTI0Z1VJVHBpSC84Skp1MmJwa2piQmVoQndyQXBCMHhpbmxvS0hUMk55MjQ2b1huTGRXdlR3clByTm9HQzNFaWxsd2R4cFc1VFpYeDRnK0hPWXpYU1RFSXpUMU9HZkFMZzl4bTRBblo3SGNrZlp0L09aaz0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 1005\r\n\r\n",
+         "size" : 1005,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:50:59 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"4b95-v8hfNtrRWlbIp6Dqp65hMrCIZZU\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=GWmTLyQ95KrV3Qgz74XV0uNvEigTLEZ2G%2B7tnT%2Fo8u2Ru2IhaKywenT%2BUEbDw2r5GmD1%2B0tNtbnA1FR26zOAxqE8khKNLYm3qtVARCm3RcFOtRWb0Q%3D%3D\"}]}\r\nCF-RAY: 9d91f802ff668131-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 2782\r\n\r\n",
+         "size" : 2782,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 3787,
+      "speed" : 49927,27272727273,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-subtitle.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+      "duration" : 3,799000000000000,
+      "id" : 717,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 37,04000000000000,
+      "request" : {
+         "header" : "GET /DhAPf3Wut6JAMepHrQZSQRFXGNUVq19qlKOSJssaK6YbDunTHpNCqk4wXAxZ/eXqWtlvCHF3uP51NO-yDfyiOXwVA8ytoxb0Awq7wA8p1xcscmFA0R8auEQSuEKXwkIxtQYUp9T9wO06ABwjaAMI50fpOVDbxbJ8vbdpIYwaS/index.m3u8?token=U-kikeSeWGqFNKZS7eoS6UbA&expiry=1772988659302 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:23:37 GMT\r\nContent-Type: application/vnd.apple.mpegurl\r\nConnection: close\r\nContent-Length: 202811\r\n\r\n",
+         "size" : 202811,
+         "type" : "application/vnd.apple.mpegurl"
+      },
+      "size" : 202811,
+      "speed" : 53523,82205843643,
+      "status" : "200",
+      "type" : "application/vnd.apple.mpegurl",
+      "url" : "https://k1093ns.cloudatocdn.com/DhAPf3Wut6JAMepHrQZSQRFXGNUVq19qlKOSJssaK6YbDunTHpNCqk4wXAxZ/eXqWtlvCHF3uP51NO-yDfyiOXwVA8ytoxb0Awq7wA8p1xcscmFA0R8auEQSuEKXwkIxtQYUp9T9wO06ABwjaAMI50fpOVDbxbJ8vbdpIYwaS/index.m3u8?token=U-kikeSeWGqFNKZS7eoS6UbA&expiry=1772988659302",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+      "duration" : 1,318000000000000,
+      "id" : 718,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 37,98100000000000,
+      "request" : {
+         "header" : "GET /DhAPf3Wut6JAMepHrQZSQRFXGNUVq19qlKOSJssaK6YbDunTHpNCqk4wXAxZ/eXqWtlvCHF3uP51NO-yDfyiOXwVA8ytoxb0Awq7wA8p1xcscmFA0R8auEQSuEKXwkIxtQYUp9T9wO06ABwjaAMI50fpOVDbxbJ8vbdpIYwaS/index.m3u8?token=U-kikeSeWGqFNKZS7eoS6UbA&expiry=1772988659302 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:23:38 GMT\r\nContent-Type: application/vnd.apple.mpegurl\r\nConnection: close\r\nContent-Length: 202811\r\n\r\n",
+         "size" : 202811,
+         "type" : "application/vnd.apple.mpegurl"
+      },
+      "size" : 202811,
+      "speed" : 154276,9347496206,
+      "status" : "200",
+      "type" : "application/vnd.apple.mpegurl",
+      "url" : "https://k1093ns.cloudatocdn.com/DhAPf3Wut6JAMepHrQZSQRFXGNUVq19qlKOSJssaK6YbDunTHpNCqk4wXAxZ/eXqWtlvCHF3uP51NO-yDfyiOXwVA8ytoxb0Awq7wA8p1xcscmFA0R8auEQSuEKXwkIxtQYUp9T9wO06ABwjaAMI50fpOVDbxbJ8vbdpIYwaS/index.m3u8?token=U-kikeSeWGqFNKZS7eoS6UbA&expiry=1772988659302",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+      "duration" : 11,98200000000000,
+      "id" : 719,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 39,72800000000000,
+      "request" : {
+         "header" : "GET /_mxDtBahj04dxzQpafBbhfklz308XBA401tkGMNJncyH04IUKRF-g6ui5leV/irMauh7x7hxslb1flMnaubBfuEmGMYcINsYkly8V3bZ-PrY2NdysJ_wXEFWALusynSU54cbEmo1XcN3rxddmC-cTKpZZcp4g3Ft4dfhFzTt4i6qPesFchaedGGfq9k2NmA/s.ts?token=tX-kXsYE03b6llAjrrgfXBW2&expiry=1772987018397 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:23:40 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nContent-Range: bytes 0-1112583/1112584\r\nContent-Length: 1112584\r\n\r\n",
+         "size" : 1112584,
+         "type" : "video/mp2t"
+      },
+      "size" : 1112584,
+      "speed" : 92903,60540811217,
+      "status" : "206",
+      "type" : "video/mp2t",
+      "url" : "https://k1093ns.cloudatocdn.com/_mxDtBahj04dxzQpafBbhfklz308XBA401tkGMNJncyH04IUKRF-g6ui5leV/irMauh7x7hxslb1flMnaubBfuEmGMYcINsYkly8V3bZ-PrY2NdysJ_wXEFWALusynSU54cbEmo1XcN3rxddmC-cTKpZZcp4g3Ft4dfhFzTt4i6qPesFchaedGGfq9k2NmA/s.ts?token=tX-kXsYE03b6llAjrrgfXBW2&expiry=1772987018397",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+      "duration" : 17,18600000000000,
+      "id" : 720,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 40,37000000000000,
+      "request" : {
+         "header" : "GET /e_wsbl1JjZwFv2p_Rd561efwCNdQDweKseYKXkFItqh55aMkD-0e0PQOFT-D/mTKHMXgg5u7NcWgjMUVgJFsPQegoVRxaYIM0jJoFZ90w-Ue8zVtsZr3iErfhtRpoHDU4pPQFmHktagJUDEp_tdqIpmbMOspyyY56B_TldCbIMlHgws3FLzBJV-QECMa7XA/s.ts?token=lsNKf6H3Mkcsq7rQQGRefTjY&expiry=1772987018397 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:23:40 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nContent-Range: bytes 0-405703/405704\r\nContent-Length: 405704\r\n\r\n",
+         "size" : 405704,
+         "type" : "video/mp2t"
+      },
+      "size" : 405704,
+      "speed" : 23640,63772838357,
+      "status" : "206",
+      "type" : "video/mp2t",
+      "url" : "https://k1093ns.cloudatocdn.com/e_wsbl1JjZwFv2p_Rd561efwCNdQDweKseYKXkFItqh55aMkD-0e0PQOFT-D/mTKHMXgg5u7NcWgjMUVgJFsPQegoVRxaYIM0jJoFZ90w-Ue8zVtsZr3iErfhtRpoHDU4pPQFmHktagJUDEp_tdqIpmbMOspyyY56B_TldCbIMlHgws3FLzBJV-QECMa7XA/s.ts?token=lsNKf6H3Mkcsq7rQQGRefTjY&expiry=1772987018397",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+      "duration" : 8,669000000000000,
+      "id" : 721,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 51,77400000000000,
+      "request" : {
+         "header" : "GET /aXGjEMFcfh-AaE4_GLTjliKT6n-Io0gMX-4Jg8natNX4OmU7UZiOrf_Gc318/1oGqUKIZJPFEt4ptzfxuobI6VQ40aHcvV1pC0_6mD4lO3FQHqg_P5ujaEbNm3-M2L9PWN2pbkuJ1esqFUq12AdOpUFVfESyWWBw5Eno1ohefF0T90dKtuFyJkW1VeAf2aQ/s.ts?token=Z9WH98aooi7LdBdJcW5BZfQ0&expiry=1772987018397 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:23:54 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nContent-Range: bytes 0-461539/461540\r\nContent-Length: 461540\r\n\r\n",
+         "size" : 461540,
+         "type" : "video/mp2t"
+      },
+      "size" : 461540,
+      "speed" : 53307,64794093897,
+      "status" : "206",
+      "type" : "video/mp2t",
+      "url" : "https://k1093ns.cloudatocdn.com/aXGjEMFcfh-AaE4_GLTjliKT6n-Io0gMX-4Jg8natNX4OmU7UZiOrf_Gc318/1oGqUKIZJPFEt4ptzfxuobI6VQ40aHcvV1pC0_6mD4lO3FQHqg_P5ujaEbNm3-M2L9PWN2pbkuJ1esqFUq12AdOpUFVfESyWWBw5Eno1ohefF0T90dKtuFyJkW1VeAf2aQ/s.ts?token=Z9WH98aooi7LdBdJcW5BZfQ0&expiry=1772987018397",
+      "user" : "isada"
+   },
+   {
+      "application" : "unknown (pid: 2064)",
+      "domain" : "array619.prod.do.dsp.mp.microsoft.com",
+      "duration" : 0,04100000000000000,
+      "id" : 722,
+      "ip" : "72.145.35.114:443",
+      "method" : "POST",
+      "offset" : 57,06000000000000,
+      "request" : {
+         "header" : "POST /join/?eid=6 HTTP/1.1\r\nConnection: Keep-Alive\r\nAccept: */*\r\nUser-Agent: Microsoft-Delivery-Optimization/10.1\r\nMS-CV: f36YnQJOzkusaSgR.95.2.1.0.0.15.1.1.22.1.4\r\nHost: array619.prod.do.dsp.mp.microsoft.com\r\nContent-Length: 611\r\n\r\n",
+         "size" : 611,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nCache-Control: private\r\nContent-Type: text/html\r\nServer: Microsoft-IIS/10.0\r\nx-content-type-options: nosniff\r\nX-AspNet-Version: 4.0.30319\r\nX-Powered-By: ASP.NET\r\nDate: Sun, 08 Mar 2026 12:51:18 GMT\r\nContent-Length: 288\r\n\r\n",
+         "size" : 288,
+         "type" : "text/html"
+      },
+      "size" : 899,
+      "speed" : 33439,02439024390,
+      "status" : "200",
+      "type" : "text/html",
+      "url" : "https://array619.prod.do.dsp.mp.microsoft.com/join/?eid=6",
+      "user" : "unknown"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+      "duration" : 4,236000000000000,
+      "id" : 723,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 57,57700000000000,
+      "request" : {
+         "header" : "GET /qBvHu9qhtZPVqPsDJPBkDCAI9rB8mskrR37g_wz2bQtXbdVaZLJE4smB8WaE/uEZzvLJmApd-BSFw4wuIUMtMyhGlNrtOJbTEzimapi_he6a4abLk5Wm-BssLcO-tulwHZ-wTKcLznvC-pg9yryvExLjQGR-pfhdJwTMHEmWSidyrnKb4WGoIN-hHvuvO1w/s.ts?token=-38e4nf081TDkwZ_sxH6VE-H&expiry=1772987018398 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:23:58 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nContent-Range: bytes 0-2115751/2115752\r\nContent-Length: 474937\r\n\r\n",
+         "size" : 474937,
+         "type" : "video/mp2t"
+      },
+      "size" : 474937,
+      "speed" : 112257,5542965061,
+      "status" : "206",
+      "type" : "video/mp2t",
+      "url" : "https://k1093ns.cloudatocdn.com/qBvHu9qhtZPVqPsDJPBkDCAI9rB8mskrR37g_wz2bQtXbdVaZLJE4smB8WaE/uEZzvLJmApd-BSFw4wuIUMtMyhGlNrtOJbTEzimapi_he6a4abLk5Wm-BssLcO-tulwHZ-wTKcLznvC-pg9yryvExLjQGR-pfhdJwTMHEmWSidyrnKb4WGoIN-hHvuvO1w/s.ts?token=-38e4nf081TDkwZ_sxH6VE-H&expiry=1772987018398",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "k1093ns.cloudatocdn.com",
+      "duration" : 1,117000000000000,
+      "id" : 724,
+      "ip" : "194.42.205.22:443",
+      "method" : "GET",
+      "offset" : 60,47700000000000,
+      "request" : {
+         "header" : "GET /Lmn5X_r_0ZYsPWIGLC6QFn2iNeDF05TmCL-fG8E7byNxC05tQaLFWiniivNn/rlCmKH4OUtkdfxP8U2UXN71aLf3A_dFEdhZ8RSEdi8writrrBE0738q8RTV0DAFHDVWk6YMicQhwazC5uYHc2w3f_TMdadeHqHhj2pDsAlGcsKsu-M2ZgYhPZDkelG862g/s.ts?token=0ZOwvTY3sfzV-6fbxFDH0mef&expiry=1772987018398 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: k1093ns.cloudatocdn.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: nginx\r\nDate: Sun, 08 Mar 2026 12:24:00 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nContent-Range: bytes 0-1663047/1663048\r\nContent-Length: 229177\r\n\r\n",
+         "size" : 229177,
+         "type" : "video/mp2t"
+      },
+      "size" : 229177,
+      "speed" : 205696,5085049239,
+      "status" : "206",
+      "type" : "video/mp2t",
+      "url" : "https://k1093ns.cloudatocdn.com/Lmn5X_r_0ZYsPWIGLC6QFn2iNeDF05TmCL-fG8E7byNxC05tQaLFWiniivNn/rlCmKH4OUtkdfxP8U2UXN71aLf3A_dFEdhZ8RSEdi8writrrBE0738q8RTV0DAFHDVWk6YMicQhwazC5uYHc2w3f_TMdadeHqHhj2pDsAlGcsKsu-M2ZgYhPZDkelG862g/s.ts?token=0ZOwvTY3sfzV-6fbxFDH0mef&expiry=1772987018398",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "wpad",
+      "duration" : 0,01100000000000000,
+      "id" : 725,
+      "ip" : "[2a02:3100:22d5:c000:ab6:57ff:fe0c:2140]:80",
+      "method" : "GET",
+      "offset" : 62,00900000000000,
+      "request" : {
+         "header" : "GET /wpad.dat HTTP/1.1\r\nHost: wpad\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) watched/4.0.1 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 400 Bad Request\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 2148\r\n\r\n",
+         "size" : 2148,
+         "type" : "text/html; charset=utf-8"
+      },
+      "size" : 2148,
+      "speed" : 230181,8181818182,
+      "status" : "400",
+      "type" : "text/html; charset=utf-8",
+      "url" : "http://wpad/wpad.dat",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.watched.com",
+      "duration" : 0,07700000000000000,
+      "id" : 726,
+      "ip" : "95.217.242.169:443",
+      "method" : "POST",
+      "offset" : 62,30100000000000,
+      "request" : {
+         "header" : "POST /api/app/ping HTTP/1.1\r\nHost: www.watched.com\r\nConnection: close\r\naccept: application/json\r\ncontent-type: application/json; charset=utf-8\r\nuser-agent: electron-fetch/1.0 electron (+https://github.com/arantes555/electron-fetch)\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 1013\r\n\r\n",
+         "size" : 1013,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:25 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nVary: Accept-Encoding\r\nContent-Encoding: gzip\r\nStrict-Transport-Security: max-age=15724800; includeSubDomains\r\nContent-Length: 1767\r\n\r\n",
+         "size" : 1767,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 2780,
+      "speed" : 44350,64935064935,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.watched.com/api/app/ping",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,2970000000000000,
+      "id" : 727,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 67,34999999999999,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyODUyMzEsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IlByQkJ2UmJkb09rejVvWjQrZnJDMzZHZ3ZJUEFRd1JSVzErK3lLa2trRjI2QlMzNTV5UVpLc25UR1hEL1o3VVVHbXh6YW51OGt2NXNMU1ZtWjZ2a3NHZGJ1V2k0L085RnAyZlNTNE9JQk16SXhmNVRhTG13bmNRdU9KMXcyeTR4QUlsMzZvYk44UWMxaEhrakg1dXQ3VHhnS1VkU1NaLzNMdXEralFVUlRjTT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 175\r\n\r\n",
+         "size" : 175,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:30 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1674a-LdUchANmAL65bTtMA2ZkW/aDBOE\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=x0PwJQMnQZvoPsGS7RBBRCsSUB1Jj5Rss8g%2Flmf3URmvknelVuZ8kliCc74A7V16TnUUPJKSPatMhD8XQDuCnfigUQIoG0Mf7AyKAFHlKDeGRVgOFw%3D%3D\"}]}\r\nCF-RAY: 9d91f8c21a043314-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 34399\r\n\r\n",
+         "size" : 34399,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 34574,
+      "speed" : 122131,3131313131,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-catalog.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1640000000000000,
+      "id" : 728,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 69,16600000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyODUyMzEsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IlByQkJ2UmJkb09rejVvWjQrZnJDMzZHZ3ZJUEFRd1JSVzErK3lLa2trRjI2QlMzNTV5UVpLc25UR1hEL1o3VVVHbXh6YW51OGt2NXNMU1ZtWjZ2a3NHZGJ1V2k0L085RnAyZlNTNE9JQk16SXhmNVRhTG13bmNRdU9KMXcyeTR4QUlsMzZvYk44UWMxaEhrakg1dXQ3VHhnS1VkU1NaLzNMdXEralFVUlRjTT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 207\r\n\r\n",
+         "size" : 207,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:32 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"12c95-0ZamHI+gFtHFSLsok99x5ey2oy0\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=qw3CKbR6T4ZwsOMigRU2y4SAvDQ%2BRUl6GADDy7Sv%2B2pZ33OVD7yFoF65OMDGKQl1%2BG4VSLZInSp%2B7fsF%2FYfFY%2BMWvPpXyps66YwBTdICnaMuGaKd8w%3D%3D\"}]}\r\nCF-RAY: 9d91f8cd6d3ae532-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 28120\r\n\r\n",
+         "size" : 28120,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 28327,
+      "speed" : 183128,0487804878,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-item.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1760000000000000,
+      "id" : 729,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 69,55100000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyODUyMzEsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IlByQkJ2UmJkb09rejVvWjQrZnJDMzZHZ3ZJUEFRd1JSVzErK3lLa2trRjI2QlMzNTV5UVpLc25UR1hEL1o3VVVHbXh6YW51OGt2NXNMU1ZtWjZ2a3NHZGJ1V2k0L085RnAyZlNTNE9JQk16SXhmNVRhTG13bmNRdU9KMXcyeTR4QUlsMzZvYk44UWMxaEhrakg1dXQ3VHhnS1VkU1NaLzNMdXEralFVUlRjTT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 901\r\n\r\n",
+         "size" : 901,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:32 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"12c95-u5KVeVg17vIoCEEYRry4gmGlyww\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=et2ufAv9RbQO8X%2FFt9rx2I10jp6N1jQ2uZcwUBTyLRUevTrRRyX9Ao7%2FHoxsbk8WIzg6ZIJZ8TY4Z6yivBseWWgzHBoNY9qNDz3TCxKDsyx%2FQL78Ww%3D%3D\"}]}\r\nCF-RAY: 9d91f8cfdb3e5053-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 28057\r\n\r\n",
+         "size" : 28057,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 28958,
+      "speed" : 174193,1818181818,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-item.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,2820000000000000,
+      "id" : 730,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 69,75800000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyODUyMzEsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IlByQkJ2UmJkb09rejVvWjQrZnJDMzZHZ3ZJUEFRd1JSVzErK3lLa2trRjI2QlMzNTV5UVpLc25UR1hEL1o3VVVHbXh6YW51OGt2NXNMU1ZtWjZ2a3NHZGJ1V2k0L085RnAyZlNTNE9JQk16SXhmNVRhTG13bmNRdU9KMXcyeTR4QUlsMzZvYk44UWMxaEhrakg1dXQ3VHhnS1VkU1NaLzNMdXEralFVUlRjTT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 173\r\n\r\n",
+         "size" : 173,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:32 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1839d-3QJXjR564BPyP5MA+pxPMnGn46I\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=v6GnA6yBwqSKxcIOp5iyflFIe6KN69gPl00GelDtlfoUeZCZirzDAGEwfTswpNer8mgcSQOpmZaqa7cORgjmP6SHoNBYsKVT5NWiSKgM3%2FuM%2BCU9qA%3D%3D\"}]}\r\nCF-RAY: 9d91f8d11dc2e52f-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 38409\r\n\r\n",
+         "size" : 38409,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 38582,
+      "speed" : 142847,5177304965,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-catalog.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1250000000000000,
+      "id" : 731,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 72,17500000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyODUyMzEsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IlByQkJ2UmJkb09rejVvWjQrZnJDMzZHZ3ZJUEFRd1JSVzErK3lLa2trRjI2QlMzNTV5UVpLc25UR1hEL1o3VVVHbXh6YW51OGt2NXNMU1ZtWjZ2a3NHZGJ1V2k0L085RnAyZlNTNE9JQk16SXhmNVRhTG13bmNRdU9KMXcyeTR4QUlsMzZvYk44UWMxaEhrakg1dXQ3VHhnS1VkU1NaLzNMdXEralFVUlRjTT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 128\r\n\r\n",
+         "size" : 128,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:35 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"282e-mmhwt8bZfZt3zK6F23cW7XpjStA\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=mWE9p5PWGlJo6mmUvlYseL%2Fx2lAW7yasgnRcu5lENRj%2B7jNVLpMxTF6BFWmjURpXp6VzEBYLTxaIPFFZpykFz0OInnPWk6cvhd3HwN4Q%2FsGWE%2Fa74A%3D%3D\"}]}\r\nCF-RAY: 9d91f8e03dc7e517-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3926\r\n\r\n",
+         "size" : 3926,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 4054,
+      "speed" : 46032,00000000000,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-item.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1120000000000000,
+      "id" : 732,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 72,50900000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyODUyMzEsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IlByQkJ2UmJkb09rejVvWjQrZnJDMzZHZ3ZJUEFRd1JSVzErK3lLa2trRjI2QlMzNTV5UVpLc25UR1hEL1o3VVVHbXh6YW51OGt2NXNMU1ZtWjZ2a3NHZGJ1V2k0L085RnAyZlNTNE9JQk16SXhmNVRhTG13bmNRdU9KMXcyeTR4QUlsMzZvYk44UWMxaEhrakg1dXQ3VHhnS1VkU1NaLzNMdXEralFVUlRjTT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 794\r\n\r\n",
+         "size" : 794,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:35 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"2829-cTeWw3Cml78aRQFtAz9l2bNxma8\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=A3QMDW195awuEsnyF%2FDYVFybLh7KjA8LuluFnpSbBBQnxX3WiWfSbJYgsZ%2F9zFGAs2opd9KiES759jQTvVY31dAn0bkjGt7f%2B3K75f4bctCC13qdiA%3D%3D\"}]}\r\nCF-RAY: 9d91f8e24a16dd58-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3925\r\n\r\n",
+         "size" : 3925,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 4719,
+      "speed" : 57294,64285714286,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-item.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1590000000000000,
+      "id" : 733,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 73,42800000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-source.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyODUyMzEsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IlByQkJ2UmJkb09rejVvWjQrZnJDMzZHZ3ZJUEFRd1JSVzErK3lLa2trRjI2QlMzNTV5UVpLc25UR1hEL1o3VVVHbXh6YW51OGt2NXNMU1ZtWjZ2a3NHZGJ1V2k0L085RnAyZlNTNE9JQk16SXhmNVRhTG13bmNRdU9KMXcyeTR4QUlsMzZvYk44UWMxaEhrakg1dXQ3VHhnS1VkU1NaLzNMdXEralFVUlRjTT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 794\r\n\r\n",
+         "size" : 794,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:36 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"11f-mxd9w3NyE8MKsClYYak4xBEePPA\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=phLNLgtiJmQWcnf1sGyougU6RXIwrXDkM9VQxz1qEwVBNOhP3FXe4w4WuT7i9z6aW6wa3eg9KgoNZE6Px9xKIocTQPCP9LdXmU%2BdmepxPakPOiBVxQ%3D%3D\"}]}\r\nCF-RAY: 9d91f8e80b9c6e86-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 161\r\n\r\n",
+         "size" : 161,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 955,
+      "speed" : 16660,37735849056,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-source.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1820000000000000,
+      "id" : 734,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 73,64300000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyODUyMzEsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IlByQkJ2UmJkb09rejVvWjQrZnJDMzZHZ3ZJUEFRd1JSVzErK3lLa2trRjI2QlMzNTV5UVpLc25UR1hEL1o3VVVHbXh6YW51OGt2NXNMU1ZtWjZ2a3NHZGJ1V2k0L085RnAyZlNTNE9JQk16SXhmNVRhTG13bmNRdU9KMXcyeTR4QUlsMzZvYk44UWMxaEhrakg1dXQ3VHhnS1VkU1NaLzNMdXEralFVUlRjTT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 202\r\n\r\n",
+         "size" : 202,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:36 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"282e-2t8ur0VeO52lnNE92TF7Nc4FFjY\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=x%2BnO0Mlh1o74lxCkeHE83Zh0udM3PVYNtQaZbAv97pIR4cb7Og0PbazzF3wstAwB%2FM53c6HOIITpPII7vI693DcqywckPwlr6XA%2FtKyfcNucQA58uQ%3D%3D\"}]}\r\nCF-RAY: 9d91f8e96df577fb-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3928\r\n\r\n",
+         "size" : 3928,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 4130,
+      "speed" : 32021,97802197802,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-item.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1140000000000000,
+      "id" : 735,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 74,14800000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-item.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyODUyMzEsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IlByQkJ2UmJkb09rejVvWjQrZnJDMzZHZ3ZJUEFRd1JSVzErK3lLa2trRjI2QlMzNTV5UVpLc25UR1hEL1o3VVVHbXh6YW51OGt2NXNMU1ZtWjZ2a3NHZGJ1V2k0L085RnAyZlNTNE9JQk16SXhmNVRhTG13bmNRdU9KMXcyeTR4QUlsMzZvYk44UWMxaEhrakg1dXQ3VHhnS1VkU1NaLzNMdXEralFVUlRjTT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 794\r\n\r\n",
+         "size" : 794,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:37 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"2829-cTeWw3Cml78aRQFtAz9l2bNxma8\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2B9eFCZcDuzzFpRQZwHfc1HxP3ZRY3OIohjniOEmbWBSI%2FF4PkEJQoWT6KH4vJWdqt7k2fmYa1HPFxkDR8BnagdEmPBE9UStyyCofPVRONBBMEgrBDQ%3D%3D\"}]}\r\nCF-RAY: 9d91f8ec895177fb-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3925\r\n\r\n",
+         "size" : 3925,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 4719,
+      "speed" : 56271,92982456140,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-item.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1390000000000000,
+      "id" : 736,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 75,57700000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyODUyMzEsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IlByQkJ2UmJkb09rejVvWjQrZnJDMzZHZ3ZJUEFRd1JSVzErK3lLa2trRjI2QlMzNTV5UVpLc25UR1hEL1o3VVVHbXh6YW51OGt2NXNMU1ZtWjZ2a3NHZGJ1V2k0L085RnAyZlNTNE9JQk16SXhmNVRhTG13bmNRdU9KMXcyeTR4QUlsMzZvYk44UWMxaEhrakg1dXQ3VHhnS1VkU1NaLzNMdXEralFVUlRjTT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 104\r\n\r\n",
+         "size" : 104,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:38 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"d6-WbwoVywmFUPn6PY7ctQRSqrNMdY\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=0uc3BhSTbadFfn5EGc9hz97aTNz24YWIswo8HqDEwGYwZdqg%2BRBFlkuhI8nCsWJba5XtT4D5DD0P2K4MViDPxTsWDbV5SULrzHIheXKVa%2BMHoMZtPw%3D%3D\"}]}\r\nCF-RAY: 9d91f8f57bfce516-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 192\r\n\r\n",
+         "size" : 192,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 296,
+      "speed" : 14330,93525179856,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-resolve.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.watched.com",
+      "duration" : 0,06400000000000000,
+      "id" : 737,
+      "ip" : "95.217.242.169:443",
+      "method" : "POST",
+      "offset" : 75,66200000000001,
+      "request" : {
+         "header" : "POST /api/app/ping HTTP/1.1\r\nHost: www.watched.com\r\nConnection: close\r\naccept: application/json\r\ncontent-type: application/json; charset=utf-8\r\nuser-agent: electron-fetch/1.0 electron (+https://github.com/arantes555/electron-fetch)\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 1009\r\n\r\n",
+         "size" : 1009,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:38 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nVary: Accept-Encoding\r\nContent-Encoding: gzip\r\nStrict-Transport-Security: max-age=15724800; includeSubDomains\r\nContent-Length: 1766\r\n\r\n",
+         "size" : 1766,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 2775,
+      "speed" : 53281,25000000000,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.watched.com/api/app/ping",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "streamtape.com",
+      "duration" : 0,08000000000000000,
+      "id" : 738,
+      "ip" : "[2606:4700:3037::6815:602e]:443",
+      "method" : "GET",
+      "offset" : 75,91600000000000,
+      "request" : {
+         "header" : "GET /v/bKQvAVVm0DUPve7?_t=1772974298618 HTTP/1.1\r\nHost: streamtape.com\r\nConnection: close\r\naccept: */*\r\ncache-control: no-cache, no-store\r\npragma: no-cache\r\nuser-agent: M\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:38 GMT\r\nContent-Type: text/html; charset=UTF-8\r\nConnection: close\r\nServer: cloudflare\r\nCache-Control: private\r\nX-Robots-Tag: nofollow, noindex, noimageindex\r\nSet-Cookie: _csrf=89dc9fdbb5d7a25d32ea6ae45b10e2ebb803bc202d7824ddb61739ecc7a314ada%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22DCGPd6Pycg_PrLBRwh36LIyYKRRvE-1e%22%3B%7D; path=/; HttpOnly\r\nSet-Cookie: _b=kube14; path=/\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=iFv%2FHnF9spLgubIOEs%2BoU2ZrHQGPdTJBJXPjlyO5V%2FQlIkVo5c8KhkayYrEujRqbBejKxMSkeSNcWDe0CvQLNLVrsBxl90mUem3flEQq1EmU%2FoHF6V4jYw%3D%3D\"}]}\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nContent-Encoding: gzip\r\nCF-RAY: 9d91f8f799afcc1b-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 13336\r\n\r\n",
+         "size" : 13336,
+         "type" : "text/html; charset=utf-8"
+      },
+      "size" : 13336,
+      "speed" : 181812,5000000000,
+      "status" : "200",
+      "type" : "text/html; charset=utf-8",
+      "url" : "https://streamtape.com/v/bKQvAVVm0DUPve7?_t=1772974298618",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,6670000000000000,
+      "id" : 739,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 76,22100000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyODUyMzEsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IlByQkJ2UmJkb09rejVvWjQrZnJDMzZHZ3ZJUEFRd1JSVzErK3lLa2trRjI2QlMzNTV5UVpLc25UR1hEL1o3VVVHbXh6YW51OGt2NXNMU1ZtWjZ2a3NHZGJ1V2k0L085RnAyZlNTNE9JQk16SXhmNVRhTG13bmNRdU9KMXcyeTR4QUlsMzZvYk44UWMxaEhrakg1dXQ3VHhnS1VkU1NaLzNMdXEralFVUlRjTT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 87467\r\n\r\n",
+         "size" : 87467,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:39 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"70-Cd6n1XMESUNfMXJ1XcwqRsUdCQk\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2F1Grv9RkYyDgS6%2F2FeqxSvTRLCazWeKxMVW4mYKQMxfhAGbGxS9XK2QIp%2FNU0d5btjIp%2BBJnUHgqgwukV7E48Fx5%2FL4xnvpPiQ98yJ%2BzDTYXZM10RQ%3D%3D\"}]}\r\nCF-RAY: 9d91f8f97b16b4c5-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 132\r\n\r\n",
+         "size" : 132,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 87599,
+      "speed" : 133890,5547226387,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-resolve.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1880000000000000,
+      "id" : 740,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 77,06600000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-subtitle.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQyOTg1ODcsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6ImNnU3lvNExwTnlKWGQ1VWloMVh2NnlpQlJpOGllS3k2YkVqUEg3NSt3VWJhS2I1cE9OcXlLWEpIVHREVmdlY0VTMTE4dGJyWG1rWnhxZ1RmLzR0SFJWaWxNcDhNbVdNRzZab2pVck9LOExGNE1ocFZ4d1lHeE9QZG04VWdZYUN5MVhlc0M5R1paQmZVbkNpUitwSlp5MVBlTmswKzAvTitBQUFqRE9FeEQxWT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 794\r\n\r\n",
+         "size" : 794,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:40 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"58bc-DLMIHXaWu/pIN0+8R2Ka5Raf7p4\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Lgkm7vSLsnpMOqrShNHBWzydBwhVlwORPA%2Fiu0sbf%2BOpmfxVM7xrvYe4Ij55uVLAgHj1F0%2FUA%2Fm1uB175vawk6OAiPPk2iVpdbjqhmp4m5UYoXb2GQ%3D%3D\"}]}\r\nCF-RAY: 9d91f8fecf34124d-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 3028\r\n\r\n",
+         "size" : 3028,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 3822,
+      "speed" : 29393,61702127660,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-subtitle.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "streamtape.com",
+      "duration" : 0,05900000000000000,
+      "id" : 741,
+      "ip" : "[2606:4700:3037::6815:602e]:443",
+      "method" : "GET",
+      "offset" : 77,29000000000001,
+      "request" : {
+         "header" : "GET /get_video?id=bKQvAVVm0DUPve7&expires=1773044298&ip=FOSODRyUDHSXFxf&token=q4HJLWsckHfY HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: streamtape.com\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 302 Found\r\nDate: Sun, 08 Mar 2026 12:51:40 GMT\r\nContent-Type: text/html; charset=UTF-8\r\nConnection: close\r\nServer: cloudflare\r\nCache-Control: private\r\nAccess-Control-Allow-Origin: *\r\nLocation: https://858141720.tapecontent.net/radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4\r\nSet-Cookie: _b=kube19; path=/\r\ncf-cache-status: DYNAMIC\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=MKjegpc7TQV7f6yyS7UhC84P%2F89rMnw0ziv2uDzvJRzD2L99qwhqWnXLaybutkClfCxGCAUsN%2Fi2ISX%2F2URdeE6XaqOYdX66TtJpRetiaWU0mT4gKMwRoQ%3D%3D\"}]}\r\nCF-RAY: 9d91f9002b34e516-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 0\r\n\r\n",
+         "size" : 0,
+         "type" : "text/html; charset=utf-8"
+      },
+      "size" : 0,
+      "speed" : 21508,47457627119,
+      "status" : "302",
+      "type" : "text/html; charset=utf-8",
+      "url" : "https://streamtape.com/get_video?id=bKQvAVVm0DUPve7&expires=1773044298&ip=FOSODRyUDHSXFxf&token=q4HJLWsckHfY",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "858141720.tapecontent.net",
+      "duration" : 3,637000000000000,
+      "id" : 742,
+      "ip" : "[2001:41d0:403:1618::]:443",
+      "method" : "GET",
+      "offset" : 77,60500000000000,
+      "request" : {
+         "header" : "GET /radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: 858141720.tapecontent.net\r\nCookie: _b=kube19\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: openresty\r\nDate: Sun, 08 Mar 2026 12:51:40 GMT\r\nContent-Type: video/mp4\r\nLast-Modified: Wed, 11 Feb 2026 09:50:09 GMT\r\nConnection: close\r\nETag: \"698c50d1-53fe48a2\"\r\nAccess-Control-Allow-Origin: *\r\nAllow: OPTIONS, GET, HEAD, POST\r\nAccess-Control-Allow-Headers: Upgrade-Insecure-Requests,Range,Content-Type,If-Modified-Since\r\nAccess-Control-Expose-Headers: ETag,Expires,Location,Content-Length,Accept-Ranges,Content-Encoding,Content-Range\r\nContent-Range: bytes 0-1409173665/1409173666\r\nContent-Length: 3243480\r\n\r\n",
+         "size" : 3243480,
+         "type" : "video/mp4"
+      },
+      "size" : 3243480,
+      "speed" : 892096,2331591971,
+      "status" : "206",
+      "type" : "video/mp4",
+      "url" : "https://858141720.tapecontent.net/radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "858141720.tapecontent.net",
+      "duration" : 0,06400000000000000,
+      "id" : 743,
+      "ip" : "[2001:41d0:403:1618::]:443",
+      "method" : "GET",
+      "offset" : 81,17600000000000,
+      "request" : {
+         "header" : "GET /radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=1409173590-\r\nConnection: close\r\nHost: 858141720.tapecontent.net\r\nCookie: _b=kube19\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: openresty\r\nDate: Sun, 08 Mar 2026 12:51:44 GMT\r\nContent-Type: video/mp4\r\nLast-Modified: Wed, 11 Feb 2026 09:50:09 GMT\r\nConnection: close\r\nETag: \"698c50d1-53fe48a2\"\r\nAccess-Control-Allow-Origin: *\r\nAllow: OPTIONS, GET, HEAD, POST\r\nAccess-Control-Allow-Headers: Upgrade-Insecure-Requests,Range,Content-Type,If-Modified-Since\r\nAccess-Control-Expose-Headers: ETag,Expires,Location,Content-Length,Accept-Ranges,Content-Encoding,Content-Range\r\nContent-Range: bytes 1409173590-1409173665/1409173666\r\nContent-Length: 76\r\n\r\n",
+         "size" : 76,
+         "type" : "video/mp4"
+      },
+      "size" : 76,
+      "speed" : 18171,87500000000,
+      "status" : "206",
+      "type" : "video/mp4",
+      "url" : "https://858141720.tapecontent.net/radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "858141720.tapecontent.net",
+      "duration" : 1,463000000000000,
+      "id" : 744,
+      "ip" : "[2001:41d0:403:1618::]:443",
+      "method" : "GET",
+      "offset" : 81,58400000000000,
+      "request" : {
+         "header" : "GET /radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=1959326-\r\nConnection: close\r\nHost: 858141720.tapecontent.net\r\nCookie: _b=kube19\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: openresty\r\nDate: Sun, 08 Mar 2026 12:51:44 GMT\r\nContent-Type: video/mp4\r\nLast-Modified: Wed, 11 Feb 2026 09:50:09 GMT\r\nConnection: close\r\nETag: \"698c50d1-53fe48a2\"\r\nAccess-Control-Allow-Origin: *\r\nAllow: OPTIONS, GET, HEAD, POST\r\nAccess-Control-Allow-Headers: Upgrade-Insecure-Requests,Range,Content-Type,If-Modified-Since\r\nAccess-Control-Expose-Headers: ETag,Expires,Location,Content-Length,Accept-Ranges,Content-Encoding,Content-Range\r\nContent-Range: bytes 1959326-1409173665/1409173666\r\nContent-Length: 1834450\r\n\r\n",
+         "size" : 1834450,
+         "type" : "video/mp4"
+      },
+      "size" : 1834450,
+      "speed" : 1254638,414217361,
+      "status" : "206",
+      "type" : "video/mp4",
+      "url" : "https://858141720.tapecontent.net/radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "858141720.tapecontent.net",
+      "duration" : 0,7490000000000000,
+      "id" : 745,
+      "ip" : "[2001:41d0:403:1618::]:443",
+      "method" : "GET",
+      "offset" : 83,00300000000000,
+      "request" : {
+         "header" : "GET /radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=2505806-\r\nConnection: close\r\nHost: 858141720.tapecontent.net\r\nCookie: _b=kube19\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: openresty\r\nDate: Sun, 08 Mar 2026 12:51:45 GMT\r\nContent-Type: video/mp4\r\nLast-Modified: Wed, 11 Feb 2026 09:50:09 GMT\r\nConnection: close\r\nETag: \"698c50d1-53fe48a2\"\r\nAccess-Control-Allow-Origin: *\r\nAllow: OPTIONS, GET, HEAD, POST\r\nAccess-Control-Allow-Headers: Upgrade-Insecure-Requests,Range,Content-Type,If-Modified-Since\r\nAccess-Control-Expose-Headers: ETag,Expires,Location,Content-Length,Accept-Ranges,Content-Encoding,Content-Range\r\nContent-Range: bytes 2505806-1409173665/1409173666\r\nContent-Length: 2555346\r\n\r\n",
+         "size" : 2555346,
+         "type" : "video/mp4"
+      },
+      "size" : 2555346,
+      "speed" : 3413126,835781042,
+      "status" : "206",
+      "type" : "video/mp4",
+      "url" : "https://858141720.tapecontent.net/radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "858141720.tapecontent.net",
+      "duration" : 0,7000000000000000,
+      "id" : 746,
+      "ip" : "[2001:41d0:403:1618::]:443",
+      "method" : "GET",
+      "offset" : 83,70200000000000,
+      "request" : {
+         "header" : "GET /radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=3119648-\r\nConnection: close\r\nHost: 858141720.tapecontent.net\r\nCookie: _b=kube19\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: openresty\r\nDate: Sun, 08 Mar 2026 12:51:46 GMT\r\nContent-Type: video/mp4\r\nLast-Modified: Wed, 11 Feb 2026 09:50:09 GMT\r\nConnection: close\r\nETag: \"698c50d1-53fe48a2\"\r\nAccess-Control-Allow-Origin: *\r\nAllow: OPTIONS, GET, HEAD, POST\r\nAccess-Control-Allow-Headers: Upgrade-Insecure-Requests,Range,Content-Type,If-Modified-Since\r\nAccess-Control-Expose-Headers: ETag,Expires,Location,Content-Length,Accept-Ranges,Content-Encoding,Content-Range\r\nContent-Range: bytes 3119648-1409173665/1409173666\r\nContent-Length: 2555346\r\n\r\n",
+         "size" : 2555346,
+         "type" : "video/mp4"
+      },
+      "size" : 2555346,
+      "speed" : 3652045,714285715,
+      "status" : "206",
+      "type" : "video/mp4",
+      "url" : "https://858141720.tapecontent.net/radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "858141720.tapecontent.net",
+      "duration" : 0,7830000000000000,
+      "id" : 747,
+      "ip" : "[2001:41d0:403:1618::]:443",
+      "method" : "GET",
+      "offset" : 84,36300000000000,
+      "request" : {
+         "header" : "GET /radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=3708941-\r\nConnection: close\r\nHost: 858141720.tapecontent.net\r\nCookie: _b=kube19\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: openresty\r\nDate: Sun, 08 Mar 2026 12:51:47 GMT\r\nContent-Type: video/mp4\r\nLast-Modified: Wed, 11 Feb 2026 09:50:09 GMT\r\nConnection: close\r\nETag: \"698c50d1-53fe48a2\"\r\nAccess-Control-Allow-Origin: *\r\nAllow: OPTIONS, GET, HEAD, POST\r\nAccess-Control-Allow-Headers: Upgrade-Insecure-Requests,Range,Content-Type,If-Modified-Since\r\nAccess-Control-Expose-Headers: ETag,Expires,Location,Content-Length,Accept-Ranges,Content-Encoding,Content-Range\r\nContent-Range: bytes 3708941-1409173665/1409173666\r\nContent-Length: 2407890\r\n\r\n",
+         "size" : 2407890,
+         "type" : "video/mp4"
+      },
+      "size" : 2407890,
+      "speed" : 3076597,701149425,
+      "status" : "206",
+      "type" : "video/mp4",
+      "url" : "https://858141720.tapecontent.net/radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "858141720.tapecontent.net",
+      "duration" : 1,072000000000000,
+      "id" : 748,
+      "ip" : "[2001:41d0:403:1618::]:443",
+      "method" : "GET",
+      "offset" : 85,09600000000000,
+      "request" : {
+         "header" : "GET /radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=4289191-\r\nConnection: close\r\nHost: 858141720.tapecontent.net\r\nCookie: _b=kube19\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: openresty\r\nDate: Sun, 08 Mar 2026 12:51:47 GMT\r\nContent-Type: video/mp4\r\nLast-Modified: Wed, 11 Feb 2026 09:50:09 GMT\r\nConnection: close\r\nETag: \"698c50d1-53fe48a2\"\r\nAccess-Control-Allow-Origin: *\r\nAllow: OPTIONS, GET, HEAD, POST\r\nAccess-Control-Allow-Headers: Upgrade-Insecure-Requests,Range,Content-Type,If-Modified-Since\r\nAccess-Control-Expose-Headers: ETag,Expires,Location,Content-Length,Accept-Ranges,Content-Encoding,Content-Range\r\nContent-Range: bytes 4289191-1409173665/1409173666\r\nContent-Length: 1703378\r\n\r\n",
+         "size" : 1703378,
+         "type" : "video/mp4"
+      },
+      "size" : 1703378,
+      "speed" : 1589985,074626866,
+      "status" : "206",
+      "type" : "video/mp4",
+      "url" : "https://858141720.tapecontent.net/radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "858141720.tapecontent.net",
+      "duration" : 0,2920000000000000,
+      "id" : 749,
+      "ip" : "[2001:41d0:403:1618::]:443",
+      "method" : "GET",
+      "offset" : 85,99200000000000,
+      "request" : {
+         "header" : "GET /radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=4880974-\r\nConnection: close\r\nHost: 858141720.tapecontent.net\r\nCookie: _b=kube19\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 206 Partial Content\r\nServer: openresty\r\nDate: Sun, 08 Mar 2026 12:51:48 GMT\r\nContent-Type: video/mp4\r\nLast-Modified: Wed, 11 Feb 2026 09:50:09 GMT\r\nConnection: close\r\nETag: \"698c50d1-53fe48a2\"\r\nAccess-Control-Allow-Origin: *\r\nAllow: OPTIONS, GET, HEAD, POST\r\nAccess-Control-Allow-Headers: Upgrade-Insecure-Requests,Range,Content-Type,If-Modified-Since\r\nAccess-Control-Expose-Headers: ETag,Expires,Location,Content-Length,Accept-Ranges,Content-Encoding,Content-Range\r\nContent-Range: bytes 4880974-1409173665/1409173666\r\nContent-Length: 32210\r\n\r\n",
+         "size" : 32210,
+         "type" : "video/mp4"
+      },
+      "size" : 32210,
+      "speed" : 114020,5479452055,
+      "status" : "206",
+      "type" : "video/mp4",
+      "url" : "https://858141720.tapecontent.net/radosgw/bKQvAVVm0DUPve7/wWFHQKwfhlg-3tlE0RYCNj4XQL9KTobX7pcftEZDGEA1G_lGGv3r3rAphP919m-4nMcOwL3JPv3ukoOJbMDpSCMrLgrvjw2rRFFdt16o6jg9NUjnyC-dmTO7_agZ_rRFNaq9nkTgQ655Lso8xZ6cgW5uIbuDTWsJGiEccr2J_T9_RZ1W7xKzr9RkKNe31z50DbnYzZYrM9wY4Svj6flb_cpefcFo-yCxMP20tjZfh59MW2WCLRAsOKtdd25OhqH3E2xs9CIO81IAAQBEQvNTO9wmtfejIFnSetrEmoZjBY93Vt_cQcCpMeBYeH8/Watch+shelter+2026+ENG.ts.mp4",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.watched.com",
+      "duration" : 0,08000000000000000,
+      "id" : 750,
+      "ip" : "95.217.242.169:443",
+      "method" : "POST",
+      "offset" : 86,64600000000000,
+      "request" : {
+         "header" : "POST /api/app/ping HTTP/1.1\r\nHost: www.watched.com\r\nConnection: close\r\naccept: application/json\r\ncontent-type: application/json; charset=utf-8\r\nuser-agent: electron-fetch/1.0 electron (+https://github.com/arantes555/electron-fetch)\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 1012\r\n\r\n",
+         "size" : 1012,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:49 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nVary: Accept-Encoding\r\nContent-Encoding: gzip\r\nStrict-Transport-Security: max-age=15724800; includeSubDomains\r\nContent-Length: 1768\r\n\r\n",
+         "size" : 1768,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 2780,
+      "speed" : 42687,50000000000,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.watched.com/api/app/ping",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,2620000000000000,
+      "id" : 751,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 87,98200000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQzMDk1NzUsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IkVkc0I5QnlXdUZXWXYzcC9pOEQwM3paZFdwWmw5WWlXam5Wd1I3V2hEeEtIWmdSanBsOFk5ZGpXYlBqSEYzTVZvZjdVczY0bXVFTHA2STFYb3MxMTJaQ1RNbk01R0xwY2lHdFlUOXQxWXhsU0I0bWVISmRsOHFvV29VYTluMTc4UlkxaGJBdEZvSmpGcWlDdFVsN2VHeUxPYXNLeXA4clF4OTVldktYcHV1VT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 173\r\n\r\n",
+         "size" : 173,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:51 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1839d-3QJXjR564BPyP5MA+pxPMnGn46I\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=im38TSSqXjltUoFQpwpdTrp%2BEvVAVqgmivIIfIK8wEAPm5dVVQTG0MCASb5xiZi5SiUSGBqOj1WMaLOmuNqjeLmSNnB7dt4Xo0ex6pFwqkjY8kq8RA%3D%3D\"}]}\r\nCF-RAY: 9d91f9430a2de51d-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 38409\r\n\r\n",
+         "size" : 38409,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 38582,
+      "speed" : 153744,2748091603,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-catalog.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1490000000000000,
+      "id" : 752,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 89,85100000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQzMDk1NzUsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IkVkc0I5QnlXdUZXWXYzcC9pOEQwM3paZFdwWmw5WWlXam5Wd1I3V2hEeEtIWmdSanBsOFk5ZGpXYlBqSEYzTVZvZjdVczY0bXVFTHA2STFYb3MxMTJaQ1RNbk01R0xwY2lHdFlUOXQxWXhsU0I0bWVISmRsOHFvV29VYTluMTc4UlkxaGJBdEZvSmpGcWlDdFVsN2VHeUxPYXNLeXA4clF4OTVldktYcHV1VT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 148\r\n\r\n",
+         "size" : 148,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:52 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"cb23-Ez0m7X4sOzB4XH5yEBdZFbK4F/M\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=3N8K2Cd8CZBElVD4iGBOuTqNS4mAOaO%2FjYc%2B%2B7diq817ORwbnPU5VafrOx%2B%2BfaQYhkGr97vzrJF5YgbWwPzzP%2B9RaxYntaGjeh7%2FsZbyx7upWVWYGw%3D%3D\"}]}\r\nCF-RAY: 9d91f94eafd5e531-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 8933\r\n\r\n",
+         "size" : 8933,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 9081,
+      "speed" : 72416,10738255034,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-catalog.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,2370000000000000,
+      "id" : 753,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 90,74800000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQzMDk1NzUsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IkVkc0I5QnlXdUZXWXYzcC9pOEQwM3paZFdwWmw5WWlXam5Wd1I3V2hEeEtIWmdSanBsOFk5ZGpXYlBqSEYzTVZvZjdVczY0bXVFTHA2STFYb3MxMTJaQ1RNbk01R0xwY2lHdFlUOXQxWXhsU0I0bWVISmRsOHFvV29VYTluMTc4UlkxaGJBdEZvSmpGcWlDdFVsN2VHeUxPYXNLeXA4clF4OTVldktYcHV1VT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 147\r\n\r\n",
+         "size" : 147,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:53 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"cd95-eaErUylwmBsM7M5mBAxhr9qbkqg\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xHskmeMGwGP9GZIXhqv9o9YjtqNOrkrdYUNqbY%2Fk7uhPnrFpGECDk9p1Q6XYTC%2Frz4za%2BZIir8CX96%2BNnpmZnxNkNrjvEMM0pILjkSNcez1fXQZBHw%3D%3D\"}]}\r\nCF-RAY: 9d91f9544c3ae51e-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 9800\r\n\r\n",
+         "size" : 9800,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 9947,
+      "speed" : 49156,11814345992,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-catalog.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1180000000000000,
+      "id" : 754,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 91,79400000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQzMDk1NzUsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IkVkc0I5QnlXdUZXWXYzcC9pOEQwM3paZFdwWmw5WWlXam5Wd1I3V2hEeEtIWmdSanBsOFk5ZGpXYlBqSEYzTVZvZjdVczY0bXVFTHA2STFYb3MxMTJaQ1RNbk01R0xwY2lHdFlUOXQxWXhsU0I0bWVISmRsOHFvV29VYTluMTc4UlkxaGJBdEZvSmpGcWlDdFVsN2VHeUxPYXNLeXA4clF4OTVldktYcHV1VT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 147\r\n\r\n",
+         "size" : 147,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:54 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"c63d-P6TAtY8pstSO2ef9VHWShVTeaY8\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SAQEPo0445Djw8NwLqCG4H1bJT48%2BQ3fBGGCSnRBt6QcTA2lGqEPQVaqwHIURphu5vQhazNF4TXWaXdTUNM0xwAUygYjCqsYKQ4LNEhpaMNE9pOTkA%3D%3D\"}]}\r\nCF-RAY: 9d91f95ade5da5b6-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 8423\r\n\r\n",
+         "size" : 8423,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 8570,
+      "speed" : 87008,47457627120,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-catalog.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1820000000000000,
+      "id" : 755,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 92,58499999999999,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-catalog.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQzMDk1NzUsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IkVkc0I5QnlXdUZXWXYzcC9pOEQwM3paZFdwWmw5WWlXam5Wd1I3V2hEeEtIWmdSanBsOFk5ZGpXYlBqSEYzTVZvZjdVczY0bXVFTHA2STFYb3MxMTJaQ1RNbk01R0xwY2lHdFlUOXQxWXhsU0I0bWVISmRsOHFvV29VYTluMTc4UlkxaGJBdEZvSmpGcWlDdFVsN2VHeUxPYXNLeXA4clF4OTVldktYcHV1VT0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 147\r\n\r\n",
+         "size" : 147,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:55 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"cd54-y1J9LpCHVVXvISMKSTcNbuIDozc\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=rQ4AGWjeKf6BY0vBps1dDCSMlAjnfgG2WMvHCnMPyBuHdOc%2BVHncs7M62%2B8xtfvPUXtNO638XGxI1gpFw0qrURkvB2X9aex2hDM4d4WQvKxSZ63Rqw%3D%3D\"}]}\r\nCF-RAY: 9d91f95fcf3de512-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 8028\r\n\r\n",
+         "size" : 8028,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 8175,
+      "speed" : 54252,74725274726,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-catalog.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.watched.com",
+      "duration" : 0,06500000000000000,
+      "id" : 756,
+      "ip" : "95.217.242.169:443",
+      "method" : "POST",
+      "offset" : 93,53300000000000,
+      "request" : {
+         "header" : "POST /api/app/ping HTTP/1.1\r\nHost: www.watched.com\r\nConnection: close\r\naccept: application/json\r\ncontent-type: application/json; charset=utf-8\r\nuser-agent: electron-fetch/1.0 electron (+https://github.com/arantes555/electron-fetch)\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 1008\r\n\r\n",
+         "size" : 1008,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:56 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nVary: Accept-Encoding\r\nContent-Encoding: gzip\r\nStrict-Transport-Security: max-age=15724800; includeSubDomains\r\nContent-Length: 1765\r\n\r\n",
+         "size" : 1765,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 2773,
+      "speed" : 52430,76923076923,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.watched.com/api/app/ping",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1750000000000000,
+      "id" : 757,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 93,81399999999999,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQzMTY0NTgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IlhLVks1MDlWcFVSS1NaSjFSQll1V3JUVFhpdzY1MnMvQmk4RzEvNjY4dndaLzBhSytnTlJHL0p5SDhlQm1MUWVWUkhpelMxMmtlY1dzZVdyckhYZTMzNUFpMVZXd20xVGw0R0hGU3ZVUDNYaGRzOC9xOVJYVlFhaEdJSjdBcEd5ZTFLVjZhTDdhQmtMVDR0bUVyeFlJQnhKVndqWnZzM3BFVFZaWHZuYUNyND0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 116\r\n\r\n",
+         "size" : 116,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:51:56 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1c7-xYa4c6Uotk5bHCZMPoeDxOc3b7s\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=PRX9l5Q39WCvPesCbWiIY5e1oPIHK7rw5cNqIf3y6zWZNE7c4C4NCM2iTtnIAtGcls2Fpnf0m0YTB2IQLh7Oqszlgh98%2FCIcv7b8SuM3I8tr4R4nsA%3D%3D\"}]}\r\nCF-RAY: 9d91f9677963e52b-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 390\r\n\r\n",
+         "size" : 390,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 506,
+      "speed" : 12577,14285714286,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-resolve.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 0,2870000000000000,
+      "id" : 758,
+      "ip" : "62.182.82.238:443",
+      "method" : "GET",
+      "offset" : 94,50100000000000,
+      "request" : {
+         "header" : "GET /sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/index.m3u8 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.29.0\r\nDate: Sun, 08 Mar 2026 12:49:27 GMT\r\nContent-Type: audio/mpegurl\r\nConnection: close\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 307\r\n\r\n",
+         "size" : 307,
+         "type" : "audio/mpegurl"
+      },
+      "size" : 307,
+      "speed" : 3522,648083623694,
+      "status" : "200",
+      "type" : "audio/mpegurl",
+      "url" : "https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/index.m3u8",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 0,1600000000000000,
+      "id" : 759,
+      "ip" : "62.182.82.238:443",
+      "method" : "GET",
+      "offset" : 95,12400000000000,
+      "request" : {
+         "header" : "GET /sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/index.m3u8 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.29.0\r\nDate: Sun, 08 Mar 2026 12:49:27 GMT\r\nContent-Type: audio/mpegurl\r\nConnection: close\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 307\r\n\r\n",
+         "size" : 307,
+         "type" : "audio/mpegurl"
+      },
+      "size" : 307,
+      "speed" : 6318,750000000000,
+      "status" : "200",
+      "type" : "audio/mpegurl",
+      "url" : "https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/index.m3u8",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 13,37500000000000,
+      "id" : 760,
+      "ip" : "62.182.82.238:443",
+      "method" : "GET",
+      "offset" : 95,52000000000000,
+      "request" : {
+         "header" : "GET /sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/69ad6d90_145.ts HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.29.0\r\nDate: Sun, 08 Mar 2026 12:49:28 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 1660980\r\n\r\n",
+         "size" : 1660980,
+         "type" : "video/mp2t"
+      },
+      "size" : 1660980,
+      "speed" : 124239,2523364486,
+      "status" : "200",
+      "type" : "video/mp2t",
+      "url" : "https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/69ad6d90_145.ts",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 25,28400000000000,
+      "id" : 761,
+      "ip" : "62.182.82.238:443",
+      "method" : "GET",
+      "offset" : 96,11700000000000,
+      "request" : {
+         "header" : "GET /sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/69ad6d90_146.ts HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.29.0\r\nDate: Sun, 08 Mar 2026 12:49:28 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 1905004\r\n\r\n",
+         "size" : 1905004,
+         "type" : "video/mp2t"
+      },
+      "size" : 1905004,
+      "speed" : 75372,72583451986,
+      "status" : "200",
+      "type" : "video/mp2t",
+      "url" : "https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/69ad6d90_146.ts",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 0,1660000000000000,
+      "id" : 762,
+      "ip" : "62.182.82.238:443",
+      "method" : "GET",
+      "offset" : 109,2940000000000,
+      "request" : {
+         "header" : "GET /sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/index.m3u8 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.29.0\r\nDate: Sun, 08 Mar 2026 12:49:42 GMT\r\nContent-Type: audio/mpegurl\r\nConnection: keep-alive\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 307\r\n\r\n",
+         "size" : 307,
+         "type" : "audio/mpegurl"
+      },
+      "size" : 307,
+      "speed" : 6150,602409638554,
+      "status" : "200",
+      "type" : "audio/mpegurl",
+      "url" : "https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/index.m3u8",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 18,50200000000000,
+      "id" : 763,
+      "ip" : "62.182.82.238:443",
+      "method" : "GET",
+      "offset" : 109,4630000000000,
+      "request" : {
+         "header" : "GET /sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/69ad6d90_147.ts HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.29.0\r\nDate: Sun, 08 Mar 2026 12:49:42 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 1974000\r\n\r\n",
+         "size" : 1974000,
+         "type" : "video/mp2t"
+      },
+      "size" : 1974000,
+      "speed" : 106730,0832342450,
+      "status" : "200",
+      "type" : "video/mp2t",
+      "url" : "https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/69ad6d90_147.ts",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 0,04800000000000000,
+      "id" : 764,
+      "ip" : "62.182.82.238:443",
+      "method" : "GET",
+      "offset" : 121,5130000000000,
+      "request" : {
+         "header" : "GET /sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/index.m3u8 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.29.0\r\nDate: Sun, 08 Mar 2026 12:49:54 GMT\r\nContent-Type: audio/mpegurl\r\nConnection: keep-alive\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 307\r\n\r\n",
+         "size" : 307,
+         "type" : "audio/mpegurl"
+      },
+      "size" : 307,
+      "speed" : 21270,83333333333,
+      "status" : "200",
+      "type" : "audio/mpegurl",
+      "url" : "https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/index.m3u8",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 13,33400000000000,
+      "id" : 765,
+      "ip" : "62.182.82.238:443",
+      "method" : "GET",
+      "offset" : 121,5650000000000,
+      "request" : {
+         "header" : "GET /sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/69ad6d90_148.ts HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.29.0\r\nDate: Sun, 08 Mar 2026 12:49:54 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 1818712\r\n\r\n",
+         "size" : 1818712,
+         "type" : "video/mp2t"
+      },
+      "size" : 1818712,
+      "speed" : 136450,5774711265,
+      "status" : "200",
+      "type" : "video/mp2t",
+      "url" : "https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/69ad6d90_148.ts",
+      "user" : "isada"
+   },
+   {
+      "application" : "svchost.exe *32",
+      "domain" : "wpad.fritz.box",
+      "duration" : 0,01000000000000000,
+      "id" : 766,
+      "ip" : "[2a02:3100:22d5:c000:ab6:57ff:fe0c:2140]:80",
+      "method" : "GET",
+      "offset" : 124,6670000000000,
+      "request" : {
+         "header" : "GET /wpad.dat HTTP/1.1\r\nConnection: Keep-Alive\r\nAccept: */*\r\nUser-Agent: WinHttp-Autoproxy-Service/5.1\r\nHost: wpad.fritz.box\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 400 Bad Request\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 2148\r\n\r\n",
+         "size" : 2148,
+         "type" : "text/html; charset=utf-8"
+      },
+      "size" : 2148,
+      "speed" : 238500,0000000000,
+      "status" : "400",
+      "type" : "text/html; charset=utf-8",
+      "url" : "http://wpad.fritz.box/wpad.dat",
+      "user" : "Lokaler Dienst"
+   },
+   {
+      "application" : "svchost.exe *32",
+      "domain" : "wpad.fritz.box",
+      "duration" : 0,1230000000000000,
+      "id" : 767,
+      "ip" : "[2a02:3100:22d5:c000:ab6:57ff:fe0c:2140]:80",
+      "method" : "GET",
+      "offset" : 124,6720000000000,
+      "request" : {
+         "header" : "GET /wpad.dat HTTP/1.1\r\nConnection: Keep-Alive\r\nAccept: */*\r\nUser-Agent: WinHttp-Autoproxy-Service/5.1\r\nHost: wpad.fritz.box\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 400 Bad Request\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 2148\r\n\r\n",
+         "size" : 2148,
+         "type" : "text/html; charset=utf-8"
+      },
+      "size" : 2148,
+      "speed" : 19390,24390243903,
+      "status" : "400",
+      "type" : "text/html; charset=utf-8",
+      "url" : "http://wpad.fritz.box/wpad.dat",
+      "user" : "Lokaler Dienst"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 0,2290000000000000,
+      "id" : 768,
+      "ip" : "62.182.82.238:443",
+      "method" : "GET",
+      "offset" : 128,0960000000000,
+      "request" : {
+         "header" : "GET /sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/index.m3u8 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.29.0\r\nDate: Sun, 08 Mar 2026 12:50:00 GMT\r\nContent-Type: audio/mpegurl\r\nConnection: keep-alive\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 307\r\n\r\n",
+         "size" : 307,
+         "type" : "audio/mpegurl"
+      },
+      "size" : 307,
+      "speed" : 4458,515283842795,
+      "status" : "200",
+      "type" : "audio/mpegurl",
+      "url" : "https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/index.m3u8",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 9,837000000000000,
+      "id" : 769,
+      "ip" : "62.182.82.238:443",
+      "method" : "GET",
+      "offset" : 128,3270000000000,
+      "request" : {
+         "header" : "GET /sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/69ad6d90_149.ts HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.29.0\r\nDate: Sun, 08 Mar 2026 12:50:01 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 1515520\r\n\r\n",
+         "size" : 1515520,
+         "type" : "video/mp2t"
+      },
+      "size" : 1515520,
+      "speed" : 154136,4237064146,
+      "status" : "200",
+      "type" : "video/mp2t",
+      "url" : "https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/69ad6d90_149.ts",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 3,109000000000000,
+      "id" : 770,
+      "ip" : "62.182.82.238:443",
+      "method" : "GET",
+      "offset" : 135,0350000000000,
+      "request" : {
+         "header" : "GET /sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/69ad6d90_150.ts HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.29.0\r\nDate: Sun, 08 Mar 2026 12:50:07 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 352256\r\n\r\n",
+         "size" : 352256,
+         "type" : "video/mp2t"
+      },
+      "size" : 352256,
+      "speed" : 113533,2904470891,
+      "status" : "200",
+      "type" : "video/mp2t",
+      "url" : "https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/4tWbw6P_NAyYKYdkAKTJAkpUG_PAa9o0l-wUuiWZXQfdPdJWXVqCTiLpyFoHLWeNmcwHick_St_sbpJdIXcP0GsumHNy6cfsqPtmk5EEYzniT9v5CCzsIkSQQCQ1VmG-7nvaOfJwMfclQWRgzAGcQmHZLe27SqhfeeyMnofzsOGWVDaJ01qPvfvbzlaN3HEJPXA3rXzAgqbbUSNc0F5l6_6TFOIxhsUwVwbV5LQyprNdXL2iR75WPaQTinwVMHVGc8bxkIqeQfUoEUOGxU1Sosdex10GVzv8RV0wzuPLoWmOcKo8QIXCEBs_Fee4avze/hls/69ad6d90_150.ts",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "www.kool.to",
+      "duration" : 0,1200000000000000,
+      "id" : 771,
+      "ip" : "[2606:4700:3032::ac43:cdc0]:443",
+      "method" : "POST",
+      "offset" : 138,4540000000000,
+      "request" : {
+         "header" : "POST /kool/mediahubmx-resolve.json HTTP/1.1\r\nHost: www.kool.to\r\nConnection: close\r\ncontent-type: application/json; charset=utf-8\r\nmediahubmx-signature: eyJkYXRhIjoie1widGltZVwiOjE3NzI5NzQzMTY0NTgsXCJ2YWxpZFVudGlsXCI6MTc3Mjk3NTQwMDAwMCxcInVzZXJcIjpcIkxIbVdQNk81dytnb3EvTE1lMGFJdmp1VDRTVURUbFJrcnN3Z2NEczJSdWM9XCIsXCJzdGF0dXNcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiaXBzXCI6W1wiODkuMTIuNzcuNTFcIl0sXCJhcHBcIjp7XCJuYW1lXCI6XCJXQVRDSEVEXCIsXCJ2ZXJzaW9uXCI6XCI0LjAuMVwiLFwicGxhdGZvcm1cIjpcImVsZWN0cm9uXCIsXCJva1wiOnRydWV9fSIsInNpZ25hdHVyZSI6IlhLVks1MDlWcFVSS1NaSjFSQll1V3JUVFhpdzY1MnMvQmk4RzEvNjY4dndaLzBhSytnTlJHL0p5SDhlQm1MUWVWUkhpelMxMmtlY1dzZVdyckhYZTMzNUFpMVZXd20xVGw0R0hGU3ZVUDNYaGRzOC9xOVJYVlFhaEdJSjdBcEd5ZTFLVjZhTDdhQmtMVDR0bUVyeFlJQnhKVndqWnZzM3BFVFZaWHZuYUNyND0ifQ==\r\nuser-agent: MediaHubMX/2\r\naccept: */*\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: no-cors\r\nSec-Fetch-Dest: empty\r\nAccept-Language: de\r\nAccept-Encoding: gzip, deflate\r\nContent-Length: 117\r\n\r\n",
+         "size" : 117,
+         "type" : "application/json; charset=utf-8"
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nDate: Sun, 08 Mar 2026 12:52:41 GMT\r\nContent-Type: application/json; charset=utf-8\r\nConnection: close\r\nServer: cloudflare\r\nmediahubmx-endpoint: .\r\netag: W/\"1c7-ptS8itye4zsw32eHj/0nyq9OrgM\"\r\nstrict-transport-security: max-age=31536000; includeSubDomains\r\nContent-Encoding: gzip\r\ncf-cache-status: DYNAMIC\r\nvary: accept-encoding\r\nNel: {\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}\r\nReport-To: {\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=LtDlMJ4o9XaAtkfUAhsRXRLzZo0FCFqxHza8LgKymAg6ONlhNoWE7HVw7QCupfPNxpwxBAlsDfA3dfTpK2NQug2pQEopBi4SgiePsIVG0Pm2jGo2vQ%3D%3D\"}]}\r\nCF-RAY: 9d91fa7e7b393237-TXL\r\nalt-svc: h3=\":443\"; ma=86400\r\nContent-Length: 391\r\n\r\n",
+         "size" : 391,
+         "type" : "application/json; charset=utf-8"
+      },
+      "size" : 508,
+      "speed" : 18341,66666666667,
+      "status" : "200",
+      "type" : "application/json; charset=utf-8",
+      "url" : "https://www.kool.to/kool/mediahubmx-resolve.json",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 0,1670000000000000,
+      "id" : 772,
+      "ip" : "194.42.205.95:443",
+      "method" : "GET",
+      "offset" : 139,0850000000000,
+      "request" : {
+         "header" : "GET /sunshine/ZD93TnVBvlehyWI9r6EDL6YPvEJFrbrOoiela8PoVjyMKo1uvUmSHhSRlidk07iM9fcILISeS8L88K-aTiM0tcUlxFv3-pCIm1s0NcGRpydfC5nc9HNkd_6lGTmBOsLKaptoJ9OIU1xn5lxF4VSakET3XnR1z3SyQFZEBIiOh9bO_KWhH9yoDFZqnpoijm08UVQ3c6sIIdt2RYFsToN5NIv8z8oIFaQ-G34NycDR50Q66Mk089BHfjV-4PknZI_2eWs-wjTqhz2GOfbrri1PgLCXneL7J-wHG9mYVLstgY6zcUpVD9hrbEH-ELgOTuKO/hls/index.m3u8 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.25.5\r\nDate: Sun, 08 Mar 2026 12:52:42 GMT\r\nContent-Type: audio/mpegurl\r\nConnection: close\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 300\r\n\r\n",
+         "size" : 300,
+         "type" : "audio/mpegurl"
+      },
+      "size" : 300,
+      "speed" : 6011,976047904192,
+      "status" : "200",
+      "type" : "audio/mpegurl",
+      "url" : "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ZD93TnVBvlehyWI9r6EDL6YPvEJFrbrOoiela8PoVjyMKo1uvUmSHhSRlidk07iM9fcILISeS8L88K-aTiM0tcUlxFv3-pCIm1s0NcGRpydfC5nc9HNkd_6lGTmBOsLKaptoJ9OIU1xn5lxF4VSakET3XnR1z3SyQFZEBIiOh9bO_KWhH9yoDFZqnpoijm08UVQ3c6sIIdt2RYFsToN5NIv8z8oIFaQ-G34NycDR50Q66Mk089BHfjV-4PknZI_2eWs-wjTqhz2GOfbrri1PgLCXneL7J-wHG9mYVLstgY6zcUpVD9hrbEH-ELgOTuKO/hls/index.m3u8",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 0,1700000000000000,
+      "id" : 773,
+      "ip" : "194.42.205.95:443",
+      "method" : "GET",
+      "offset" : 139,5670000000000,
+      "request" : {
+         "header" : "GET /sunshine/ZD93TnVBvlehyWI9r6EDL6YPvEJFrbrOoiela8PoVjyMKo1uvUmSHhSRlidk07iM9fcILISeS8L88K-aTiM0tcUlxFv3-pCIm1s0NcGRpydfC5nc9HNkd_6lGTmBOsLKaptoJ9OIU1xn5lxF4VSakET3XnR1z3SyQFZEBIiOh9bO_KWhH9yoDFZqnpoijm08UVQ3c6sIIdt2RYFsToN5NIv8z8oIFaQ-G34NycDR50Q66Mk089BHfjV-4PknZI_2eWs-wjTqhz2GOfbrri1PgLCXneL7J-wHG9mYVLstgY6zcUpVD9hrbEH-ELgOTuKO/hls/index.m3u8 HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: close\r\nHost: qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.25.5\r\nDate: Sun, 08 Mar 2026 12:52:42 GMT\r\nContent-Type: audio/mpegurl\r\nConnection: close\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 300\r\n\r\n",
+         "size" : 300,
+         "type" : "audio/mpegurl"
+      },
+      "size" : 300,
+      "speed" : 5905,882352941176,
+      "status" : "200",
+      "type" : "audio/mpegurl",
+      "url" : "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ZD93TnVBvlehyWI9r6EDL6YPvEJFrbrOoiela8PoVjyMKo1uvUmSHhSRlidk07iM9fcILISeS8L88K-aTiM0tcUlxFv3-pCIm1s0NcGRpydfC5nc9HNkd_6lGTmBOsLKaptoJ9OIU1xn5lxF4VSakET3XnR1z3SyQFZEBIiOh9bO_KWhH9yoDFZqnpoijm08UVQ3c6sIIdt2RYFsToN5NIv8z8oIFaQ-G34NycDR50Q66Mk089BHfjV-4PknZI_2eWs-wjTqhz2GOfbrri1PgLCXneL7J-wHG9mYVLstgY6zcUpVD9hrbEH-ELgOTuKO/hls/index.m3u8",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 16,44800000000000,
+      "id" : 774,
+      "ip" : "194.42.205.95:443",
+      "method" : "GET",
+      "offset" : 140,0100000000000,
+      "request" : {
+         "header" : "GET /sunshine/ZD93TnVBvlehyWI9r6EDL6YPvEJFrbrOoiela8PoVjyMKo1uvUmSHhSRlidk07iM9fcILISeS8L88K-aTiM0tcUlxFv3-pCIm1s0NcGRpydfC5nc9HNkd_6lGTmBOsLKaptoJ9OIU1xn5lxF4VSakET3XnR1z3SyQFZEBIiOh9bO_KWhH9yoDFZqnpoijm08UVQ3c6sIIdt2RYFsToN5NIv8z8oIFaQ-G34NycDR50Q66Mk089BHfjV-4PknZI_2eWs-wjTqhz2GOfbrri1PgLCXneL7J-wHG9mYVLstgY6zcUpVD9hrbEH-ELgOTuKO/hls/69ad6fef_47.ts HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.25.5\r\nDate: Sun, 08 Mar 2026 12:52:43 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 1576960\r\n\r\n",
+         "size" : 1576960,
+         "type" : "video/mp2t"
+      },
+      "size" : 1576960,
+      "speed" : 95919,19990272373,
+      "status" : "200",
+      "type" : "video/mp2t",
+      "url" : "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ZD93TnVBvlehyWI9r6EDL6YPvEJFrbrOoiela8PoVjyMKo1uvUmSHhSRlidk07iM9fcILISeS8L88K-aTiM0tcUlxFv3-pCIm1s0NcGRpydfC5nc9HNkd_6lGTmBOsLKaptoJ9OIU1xn5lxF4VSakET3XnR1z3SyQFZEBIiOh9bO_KWhH9yoDFZqnpoijm08UVQ3c6sIIdt2RYFsToN5NIv8z8oIFaQ-G34NycDR50Q66Mk089BHfjV-4PknZI_2eWs-wjTqhz2GOfbrri1PgLCXneL7J-wHG9mYVLstgY6zcUpVD9hrbEH-ELgOTuKO/hls/69ad6fef_47.ts",
+      "user" : "isada"
+   },
+   {
+      "application" : "WATCHED.exe *64",
+      "domain" : "qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org",
+      "duration" : 15,81100000000000,
+      "id" : 775,
+      "ip" : "194.42.205.95:443",
+      "method" : "GET",
+      "offset" : 140,7440000000000,
+      "request" : {
+         "header" : "GET /sunshine/ZD93TnVBvlehyWI9r6EDL6YPvEJFrbrOoiela8PoVjyMKo1uvUmSHhSRlidk07iM9fcILISeS8L88K-aTiM0tcUlxFv3-pCIm1s0NcGRpydfC5nc9HNkd_6lGTmBOsLKaptoJ9OIU1xn5lxF4VSakET3XnR1z3SyQFZEBIiOh9bO_KWhH9yoDFZqnpoijm08UVQ3c6sIIdt2RYFsToN5NIv8z8oIFaQ-G34NycDR50Q66Mk089BHfjV-4PknZI_2eWs-wjTqhz2GOfbrri1PgLCXneL7J-wHG9mYVLstgY6zcUpVD9hrbEH-ELgOTuKO/hls/69ad6fef_48.ts HTTP/1.1\r\nUser-Agent: libmpv\r\nAccept: */*\r\nRange: bytes=0-\r\nConnection: keep-alive\r\nHost: qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org\r\nIcy-MetaData: 1\r\n\r\n",
+         "size" : 0,
+         "type" : ""
+      },
+      "response" : {
+         "header" : "HTTP/1.1 200 OK\r\nServer: nginx/1.25.5\r\nDate: Sun, 08 Mar 2026 12:52:43 GMT\r\nContent-Type: video/mp2t\r\nConnection: keep-alive\r\nCache-Control: no-cache\r\nAccess-Control-Allow-Origin: *\r\nContent-Length: 290816\r\n\r\n",
+         "size" : 290816,
+         "type" : "video/mp2t"
+      },
+      "size" : 290816,
+      "speed" : 18438,68193030169,
+      "status" : "200",
+      "type" : "video/mp2t",
+      "url" : "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ZD93TnVBvlehyWI9r6EDL6YPvEJFrbrOoiela8PoVjyMKo1uvUmSHhSRlidk07iM9fcILISeS8L88K-aTiM0tcUlxFv3-pCIm1s0NcGRpydfC5nc9HNkd_6lGTmBOsLKaptoJ9OIU1xn5lxF4VSakET3XnR1z3SyQFZEBIiOh9bO_KWhH9yoDFZqnpoijm08UVQ3c6sIIdt2RYFsToN5NIv8z8oIFaQ-G34NycDR50Q66Mk089BHfjV-4PknZI_2eWs-wjTqhz2GOfbrri1PgLCXneL7J-wHG9mYVLstgY6zcUpVD9hrbEH-ELgOTuKO/hls/69ad6fef_48.ts",
+      "user" : "isada"
+   }
+]
